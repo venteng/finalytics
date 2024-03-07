@@ -1,0 +1,13 @@
+# Writing_data_descriptions
+
+Please follow the steps to describe your data:
+
+1. Size of datasets and number of features, overall default rate. 
+2. List variables names, description, types (哪些要用哪些不用）
+3. List summary statistics: mean, std, skewness, Kurtosis, min, max, missing ratio
+4. Boxplots for all variables (12 varaibles)
+5. Data preprocessing: 具體寫出你做data preprocessing (a) (b) (c) (d) 
+6. Boxplots for all variables, pairwise correlations. 
+
+If you need to list a long table, you can use the latex syntax 
+
