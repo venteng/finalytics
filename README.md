@@ -2,7 +2,7 @@
 
 *by Huei-Wen Teng*
 
-This is a nice try to use gitHUB as a platform to collect all tools from our research lab. 
+This is an experiment to use gitHUB as a platform to collect and share tools from our research lab. 
 
 
 |Index|Topic | Member |Note|
