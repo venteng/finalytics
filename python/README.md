@@ -1,10 +1,8 @@
 # Pythons in COLAB
 
-:::success
 By Huei-Wen Teng and Ming-Hsuan Kang 
 Created on July 12, 2023
 Last updated Aug 15, 2023
-:::
 
 
 
