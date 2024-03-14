@@ -5,11 +5,8 @@ tags: finalytics
 
 # 國網中心
 
-:::success
-Editor: Ian Lee
-Prof. Huei-Wen Teng
-National Yang Ming Chiao Tung University
-:::
+- Editor by Ian Lee on 20230711
+- Reviewed by Teng
 
 
 ## 以個人為單位註冊帳號
