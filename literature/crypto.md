@@ -7,7 +7,7 @@
 
 |keywords | 	Journal Ranking Factor |	#Citation |	bibentry|
 |--|---|---|---|
-|COVID-10 pandmic| 		NA| 315 |@article{chen2020fear, title={Fear sentiment, uncertainty, and bitcoin price dynamics: The case of COVID-19}, author={Chen, Conghui and Liu, Lanlan and Zhao, Ningru}, journal={Emerging Markets Finance and Trade}, volume={56}, number={10}, pages={2298--2309}, year={2020}, publisher={Taylor \& Francis} }|
+|COVID-19 pandmic| 		NA| 315 |@article{chen2020fear, title={Fear sentiment, uncertainty, and bitcoin price dynamics: The case of COVID-19}, author={Chen, Conghui and Liu, Lanlan and Zhao, Ningru}, journal={Emerging Markets Finance and Trade}, volume={56}, number={10}, pages={2298--2309}, year={2020}, publisher={Taylor \& Francis} }|
 |quantile regressions|SSCI: 1/111=1%|785|@article{bouri2017does, title={Does Bitcoin hedge global uncertainty? Evidence from wavelet-based quantile-in-quantile regressions}, author={Bouri, Elie and Gupta, Rangan and Tiwari, Aviral Kumar and Roubaud, David}, journal={Finance Research Letters}, volume={23}, pages={87--95}, year={2017}, publisher={Elsevier} }|
 |Lasso|SSCI: 1/111=1%|218|@article{panagiotidis2018determinants, title={On the determinants of bitcoin returns: A LASSO approach}, author={Panagiotidis, Theodore and Stengos, Thanasis and Vravosinos, Orestis}, journal={Finance Research Letters}, volume={27}, pages={235--240}, year={2018}, publisher={Elsevier} }|
 |Macro factor|SCIE: 31/145=21%|644|@article{li2017technology, title={The technology and economic determinants of cryptocurrency exchange rates: The case of Bitcoin}, author={Li, Xin and Wang, Chong Alex}, journal={Decision support systems}, volume={95}, pages={49--60}, year={2017}, publisher={Elsevier} }|
