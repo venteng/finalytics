@@ -5,6 +5,9 @@
 |keywords | 	Journal Ranking Factor |	#Citation |	bibentry|
 |--|---|---|---|
 |LASSO| 	SCIE: 3/125 = 2%	|55855|	"@article{tibshirani1996regression, title={Regression shrinkage and selection via the lasso}, author={Tibshirani, Robert}, journal={Journal of the Royal Statistical Society Series B: Statistical Methodology}, volume={58},number={1}, pages={267--288},  year={1996},publisher={Oxford University Press}}"|
+|SVCJ MCMC||74|@article{hou2020pricing,title={Pricing cryptocurrency options},author={Hou, Ai Jun and Wang, Weining and Chen, Cathy YH and H{\"a}rdle, Wolfgang Karl},journal={Journal of Financial Econometrics},volume={18},number={2},pages={250--279},year={2020},publisher={Oxford University Press}}|
+|Impacts, existence of jumps||150|@article{scaillet2020high,title={High-frequency jump analysis of the bitcoin market},author={Scaillet, Olivier and Treccani, Adrien and Trevisan, Christopher},journal={Journal of Financial Econometrics},volume={18},number={2},pages={209--232},year={2020},publisher={Oxford University Press}|
+|Bitcoin||32258|@article{nakamoto2008bitcoin,title={Bitcoin: A peer-to-peer electronic cash system},author={Nakamoto, Satoshi},year={2008}}|
 
 
 ## FRM by David
