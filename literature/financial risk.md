@@ -55,3 +55,6 @@
 
 ## Text mining by James
 
+| Keyword | Title | Journal | Edition | Categories | Rank | Citation | BibTeX |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| LSTM, Random forests | Forecasting directional movements of stock prices for intraday trading using LSTM and random forests | Finance Research Letters | SSCI | BUSINESS, FINANCE | 1/111, 0.9% | 115 | @article{ghosh2022forecasting,title={Forecasting directional movements of stock prices for intraday trading using LSTM and random forests}, author={Ghosh, Pushpendu and Neufeld, Ariel and Sahoo, Jajati Keshari}, journal={Finance Research Letters}, volume={46}, pages={102280}, year={2022}, publisher={Elsevier}} |
