@@ -62,10 +62,3 @@
 | CAViaR | CAViaR: Conditional autoregressive value at risk by regression quantiles | Journal of business & economic statistics | SSCI | ECONOMICS | 130/380, 34.21% | 2728 | @article{engle2004caviar, title={CAViaR: Conditional autoregressive value at risk by regression quantiles}, author={Engle, Robert F and Manganelli, Simone}, journal={Journal of business \& economic statistics}, volume={22}, number={4}, pages={367--381}, year={2004}, publisher={Taylor \& Francis}} |
 | Quantile Regression, Neural Network | Quantile regression neural networks: Implementation in R and application to precipitation downscaling | Computers & geosciences | SCIE | COMPUTER SCIENCE, INTERDISCIPLINARY APPLICATIONS | 41/110, 37.27% | 386 | @article{cannon2011quantile, title={Quantile regression neural networks: Implementation in R and application to precipitation downscaling}, author={Cannon, Alex J}, journal={Computers \& geosciences}, volume={37}, number={9}, pages={1277--1284}, year={2011}, publisher={Elsevier}} |
 | Quantile Regression, Neural Network | A quantile regression neural network approach to estimating the conditional density of multiperiod returns | Journal of forecasting | SSCI | ECONOMICS | 108/380, 28.42% | 427 | @article{taylor2000quantile, title={A quantile regression neural network approach to estimating the conditional density of multiperiod returns}, author={Taylor, James W}, journal={Journal of forecasting}, volume={19}, number={4}, pages={299--311}, year={2000}, publisher={Wiley Online Library}} |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-
