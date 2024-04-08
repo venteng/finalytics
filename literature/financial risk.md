@@ -5,10 +5,6 @@
 |keywords | 	Journal Ranking Factor |	#Citation |	bibentry|
 |--|---|---|---|
 |LASSO| 	SCIE: 3/125 = 2%	|55855|	"@article{tibshirani1996regression, title={Regression shrinkage and selection via the lasso}, author={Tibshirani, Robert}, journal={Journal of the Royal Statistical Society Series B: Statistical Methodology}, volume={58},number={1}, pages={267--288},  year={1996},publisher={Oxford University Press}}"|
-|SVCJ MCMC||74|@article{hou2020pricing,title={Pricing cryptocurrency options},author={Hou, Ai Jun and Wang, Weining and Chen, Cathy YH and H{\"a}rdle, Wolfgang Karl},journal={Journal of Financial Econometrics},volume={18},number={2},pages={250--279},year={2020},publisher={Oxford University Press}}|
-|Impacts, existence of jumps||150|@article{scaillet2020high,title={High-frequency jump analysis of the bitcoin market},author={Scaillet, Olivier and Treccani, Adrien and Trevisan, Christopher},journal={Journal of Financial Econometrics},volume={18},number={2},pages={209--232},year={2020},publisher={Oxford University Press}|
-|Bitcoin||32258|@article{nakamoto2008bitcoin,title={Bitcoin: A peer-to-peer electronic cash system},author={Nakamoto, Satoshi},year={2008}}|
-
 
 ## FRM by David
 
@@ -51,6 +47,15 @@
 
 
 ## Option implied information by Wendy
+| Keyword | Title | Journal | Edition | Categories | Rank | Citation | BibTeX |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|SVCJ MCMC|Pricing Cryptocurrency Options|Journal of Financial Econometrics|SSCI|BUSINESS, FINANCE, ECONOMICS|76/221, 65.84%|74|@article{hou2020pricing,title={Pricing cryptocurrency options},author={Hou, Ai Jun and Wang, Weining and Chen, Cathy YH and H{\"a}rdle, Wolfgang Karl},journal={Journal of Financial Econometrics},volume={18},number={2},pages={250--279},year={2020},publisher={Oxford University Press}}|
+|BTC,Profile Quasi Maximum likelihood estimation|Market attention and Bitcoin price modeling: Theory, estimation and option pricingConsidering bitcoin as a foreign currency in a small open economy where money supply and aggregate dividend are exogenous|Decisions in Economics and Finance|ESCI|SOCIAL SCIENCES, MATHEMATICAL METHODS|56/61, 9.02%|34|@article{cretarola2020market,title={Market attention and Bitcoin price modeling: Theory, estimation and option pricing},author={Cretarola, Alessandra and Fig{\`a}-Talamanca, Gianna and Patacca, Marco},journal={Decisions in Economics and Finance},volume={43},number={1},pages={187--228},year={2020},publisher={Springer}}|
+|Impacts, existence of jumps|High-frequency jump analysis of the bitcoin market|Journal of Financial Econometrics|SSCI|BUSINESS, FINANCE, ECONOMICS|76/221, 65.84%|150|@article{scaillet2020high,title={High-frequency jump analysis of the bitcoin market},author={Scaillet, Olivier and Treccani, Adrien and Trevisan, Christopher},journal={Journal of Financial Econometrics},volume={18},number={2},pages={209--232},year={2020},publisher={Oxford University Press}|
+|Bitcoin|Bitcoin: A peer-to-peer electronic cash system|NA|NA|NA|NA|32258|@article{nakamoto2008bitcoin,title={Bitcoin: A peer-to-peer electronic cash system},author={Nakamoto, Satoshi},year={2008}}|
+|Bitcoin|Valuation of bitcoin options|Journal of Futures Markets|SSCI|BUSINESS, FINANCE|63/111, 43.69%|18|@article{cao2021valuation,title={Valuation of bitcoin options},author={Cao, Melanie and Celik, Batur},journal={Journal of Futures Markets},volume={41},number={7},pages={1007--1026},year={2021},publisher={Wiley Online Library}}|
+|BTC, BS model, Heston-Nandi GARCH model, Greeks|The Bitcoin options market: A first look at pricing and risk|Applied Economics|SSCI|ECONOMICS|203/381, 46.85%|20|@article{jalan2021bitcoin,title={The Bitcoin options market: A first look at pricing and risk},author={Jalan, Akanksha and Matkovskyy, Roman and Aziz, Saqib},journal={Applied Economics},volume={53},number={17},pages={2026--2041},year={2021},publisher={Taylor \& Francis}}|
+|BTC, SETAR-GARCH model|Bitcoin option pricing with a SETAR-GARCH model|European Journal of Finance|SSCI|BUSINESS, FINANCE|78/111, 30.18%|28|@article{siu2021bitcoin,title={Bitcoin option pricing with a SETAR-GARCH model},author={Siu, Tak Kuen and Elliott, Robert J},journal={The European Journal of Finance},volume={27},number={6},pages={564--595},year={2021},publisher={Taylor \& Francis}}|
 
 
 ## Text mining by James
