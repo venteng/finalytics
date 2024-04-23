@@ -15,7 +15,9 @@
 
 |keywords | 	Journal Ranking Factor |	#Citation |	bibentry|
 |--|---|---|---|
-|LASSO| 	NA	|24|	"@article{dixon2018high,  title={A high-frequency trade execution model for supervised learning},  author={Dixon, Matthew},  journal={High Frequency}, volume={1},  number={1},  pages={32--52},  year={2018},  publisher={Wiley Online Library}}
+|A high-frequency trade execution model for supervised learning| 	NA	|24|	"@article{dixon2018high,  title={A high-frequency trade execution model for supervised learning},  author={Dixon, Matthew},  journal={High Frequency}, volume={1},  number={1},  pages={32--52},  year={2018},  publisher={Wiley Online Library}}
+"|
+|A high-frequency trade execution model for supervised learning| 	NA	|24|	"@article{dixon2018high,  title={A high-frequency trade execution model for supervised learning},  author={Dixon, Matthew},  journal={High Frequency}, volume={1},  number={1},  pages={32--52},  year={2018},  publisher={Wiley Online Library}}
 "|
 
 
