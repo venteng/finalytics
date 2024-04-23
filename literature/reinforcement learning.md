@@ -17,6 +17,7 @@
 |--|---|---|---|
 |high-frequency trade| 	NA	|24|	"@article{dixon2018high,  title={A high-frequency trade execution model for supervised learning},  author={Dixon, Matthew},  journal={High Frequency}, volume={1},  number={1},  pages={32--52},  year={2018},  publisher={Wiley Online Library}}"|
 |Algorithmic trading of cryptocurrency| 	NA	|127|	"@article{colianni2015algorithmic, title={Algorithmic trading of cryptocurrency based on Twitter sentiment analysis}, author={Colianni, Stuart and Rosales, Stephanie and Signorotti, Michael},  journal={CS229 Project}, volume={1},  number={5},  pages={1--4}, year={2015}}"|
+|Advances in financial machine learning| 	NA	|658|	"@book{de2018advances,title={Advances in financial machine learning},  author={De Prado, Marcos Lopez}, year={2018}, publisher={John Wiley \& Sons}}"|
 
 
 
