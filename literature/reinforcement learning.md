@@ -29,5 +29,4 @@
 |Proximal policy optimization| 	NA	|17074|	"@article{schulman2017proximal,title={Proximal policy optimization algorithms},author={Schulman, John and Wolski, Filip and Dhariwal, Prafulla and Radford, Alec and Klimov, Oleg},journal={arXiv preprint arXiv:1707.06347},year={2017}}"|
 |Asynchronous methods for deep reinforcement learning| 	SCIE: 14/65	= 21.5%|10789|	"@inproceedings{mnih2016asynchronous,title={Asynchronous methods for deep reinforcement learning},author={Mnih, Volodymyr and Badia, Adria Puigdomenech and Mirza, Mehdi and Graves, Alex and Lillicrap, Timothy and Harley, Tim and Silver, David and Kavukcuoglu, Koray},booktitle={International conference on machine learning},pages={1928--1937},year={2016},organization={PMLR}
 }"|
-
 ## Please use VPN with NYCU connection to find the SCI/SCIE's ranking factor through https://jcr.clarivate.com/jcr/home. If you can not find the paper, please write NA. 
