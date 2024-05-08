@@ -30,7 +30,7 @@ where $\alpha$ and $\beta$ are the shape and scale parameters, respectively.
 
 #### 2. Likelihood Function
 
-For the model where $X_1, \ldots, X_n \sim N(\$
+For the model where $X_i, \ldots, X_n \sim N(\mu, \sigma^2)$
 
 
 
