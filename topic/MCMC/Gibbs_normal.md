@@ -95,7 +95,7 @@ $= (2\pi \sigma^2)^{-n/2} \exp\left(-\frac{\sum \limits_{i=1}^n (X_i - \mu)^2}{2
 ### Combining the Prior and Likelihood:
 
 To find the full conditional for $\mu$, we treat the above as a product of two exponentials and simplify. First, rewrite the likelihood:
-$\exp\left(-\frac{\sum_{i=1}^n (X_i - \mu)^2}{2\sigma^2}\right) = \exp\left(-\frac{\sum_{i=1}^n X_i^2 - 2\mu \sum \limits_{i=1}^n X_i + n\mu^2}{2\sigma^2}\right)$
+$\exp\left(-\frac{\sum \limits_{i=1}^n (X_i - \mu)^2}{2\sigma^2}\right) = \exp\left(-\frac{\sum \limits_{i=1}^n X_i^2 - 2\mu \sum \limits_{i=1}^n X_i + n\mu^2}{2\sigma^2}\right)$
 
 By completing the square for $\mu$, we get:
 $-\frac{\sum \limits_{i=1}^n X_i^2 - 2\mu \sum \limits_{i=1}^n X_i + n\mu^2 + \frac{(\mu - \mu_0)^2 \sigma^2}{\sigma_0^2}}{2\sigma^2} = -\frac{\left(\mu - \frac{\frac{\sum \limits_{i=1}^n X_i}{\sigma^2} + \frac{\mu_0}{\sigma_0^2}}{\frac{n}{\sigma^2} + \frac{1}{\sigma_0^2}}\right)^2 \left(\frac{n}{\sigma^2} + \frac{1}{\sigma_0^2}\right)}{2}$
