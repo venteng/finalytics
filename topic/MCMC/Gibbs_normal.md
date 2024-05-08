@@ -16,22 +16,6 @@
 
 ### Detailed Answers
 
-#### 1. Prior Densities
-
-**Density of $\mu$:**
-The prior for $\mu$ is a normal distribution:
-$\[ p(\mu) = \frac{1}{\sqrt{2\pi \sigma_0^2}} \exp\left(-\frac{(\mu - \mu_0)^2}{2\sigma_0^2}\right) \]$
-where $\mu_0$ is the mean and $\sigma_0^2$ is the variance of the prior distribution for $\mu$.
-
-**Density of $\sigma^2$:**
-The prior for $\sigma^2$ is an inverse gamma distribution:
-$\[ p(\sigma^2) = \frac{\beta^\alpha}{\Gamma(\alpha)} (\sigma^2)^{-\alpha - 1} \exp\left(-\frac{\beta}{\sigma^2}\right) \]$
-where $\alpha$ and $\beta$ are the shape and scale parameters, respectively.
-
-#### 2. Likelihood Function
-
-For the model where $X_i, \ldots, X_n \sim N(\mu, \sigma^2)$
-
 ### 1. Prior Densities
 
 #### Density of $\mu$
