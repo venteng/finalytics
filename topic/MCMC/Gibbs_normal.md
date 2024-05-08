@@ -32,18 +32,11 @@ where $\alpha$ and $\beta$ are the shape and scale parameters, respectively.
 
 For the model where $X_i, \ldots, X_n \sim N(\mu, \sigma^2)$
 
-
-
-
-
-
 ### 1. Prior Densities
 
 #### Density of $\mu$
 Given the prior for $\mu$ is a normal distribution, the density function is:
-$
-p(\mu) = \frac{1}{\sqrt{2\pi \sigma_0^2}} \exp\left(-\frac{(\mu - \mu_0)^2}{2\sigma_0^2}\right)
-$
+$p(\mu) = \frac{1}{\sqrt{2\pi \sigma_0^2}} \exp\left(-\frac{(\mu - \mu_0)^2}{2\sigma_0^2}\right)$
 where $\mu_0$ is the mean and $\sigma_0^2$ is the variance of the prior distribution for $\mu$.
 
 #### Density of $\sigma^2$
@@ -54,9 +47,9 @@ where $\alpha$ and $\beta$ are the shape and scale parameters, respectively.
 ### 2. Likelihood Function
 
 For the given model, where $X_1, \ldots, X_n \sim N(\mu, \sigma^2)$ independently, the likelihood function $L(\mu, \sigma^2)$ is:
-$L(\mu, \sigma^2) = \prod_{i=1}^n \frac{1}{\sqrt{2\pi \sigma^2}} \exp\left(-\frac{(X_i - \mu)^2}{2\sigma^2}\right)$
+$L(\mu, \sigma^2) = \prod \limits_{i=1}^n \frac{1}{\sqrt{2\pi \sigma^2}} \exp\left(-\frac{(X_i - \mu)^2}{2\sigma^2}\right)$
 which simplifies to:
-$L(\mu, \sigma^2) = (2\pi \sigma^2)^{-n/2} \exp\left(-\frac{\sum_{i=1}^n (X_i - \mu)^2}{2\sigma^2}\right)$
+$L(\mu, \sigma^2) = (2\pi \sigma^2)^{-n/2} \exp\left(-\frac{\sum \limits_{i=1}^n (X_i - \mu)^2}{2\sigma^2}\right)$
 
 ### 3. Full Conditional Densities
 
@@ -65,14 +58,14 @@ Given $\sigma^2$, $\mu$ follows a normal distribution:
 $\mu | \sigma^2, X \sim N\left(\mu_n, \sigma_n^2\right)$
 where:
 $\sigma_n^2 = \left(\frac{1}{\sigma_0^2} + \frac{n}{\sigma^2}\right)^{-1}$
-$\mu_n = \sigma_n^2 \left(\frac{\mu_0}{\sigma_0^2} + \frac{\sum_{i=1}^n X_i}{\sigma^2}\right)$
+$\mu_n = \sigma_n^2 \left(\frac{\mu_0}{\sigma_0^2} + \frac{\sum \limits_{i=1}^n X_i}{\sigma^2}\right)$
 
 #### Full Conditional for $\sigma^2$
 Given $\mu$, $\sigma^2$ follows an inverse gamma distribution:
 $\sigma^2 | \mu, X \sim \text{InverseGamma}\left(\alpha_n, \beta_n\right)$
 where:
 $\alpha_n = \alpha + \frac{n}{2}$
-$\beta_n = \beta + \frac{1}{2}\sum_{i=1}^n (X_i - \mu)^2$
+$\beta_n = \beta + \frac{1}{2}\sum \limits_{i=1}^n (X_i - \mu)^2$
 
 ### 4. Gibbs Sampling Algorithm
 
@@ -96,23 +89,23 @@ Given that $\mu \sim N(\mu_0, \sigma_0^2)$ and $X_i | \mu, \sigma^2 \sim N(\mu, 
 $p(\mu) = \frac{1}{\sqrt{2\pi \sigma_0^2}} \exp\left(-\frac{(\mu - \mu_0)^2}{2\sigma_0^2}\right)$
 
 ### Likelihood (given $\sigma^2$):
-$p(X|\mu, \sigma^2) = \prod_{i=1}^n \frac{1}{\sqrt{2\pi \sigma^2}} \exp\left(-\frac{(X_i - \mu)^2}{2\sigma^2}\right)$
-$= (2\pi \sigma^2)^{-n/2} \exp\left(-\frac{\sum_{i=1}^n (X_i - \mu)^2}{2\sigma^2}\right)$
+$p(X|\mu, \sigma^2) = \prod \limits_{i=1}^n \frac{1}{\sqrt{2\pi \sigma^2}} \exp\left(-\frac{(X_i - \mu)^2}{2\sigma^2}\right)$
+$= (2\pi \sigma^2)^{-n/2} \exp\left(-\frac{\sum \limits_{i=1}^n (X_i - \mu)^2}{2\sigma^2}\right)$
 
 ### Combining the Prior and Likelihood:
 
 To find the full conditional for $\mu$, we treat the above as a product of two exponentials and simplify. First, rewrite the likelihood:
-$\exp\left(-\frac{\sum_{i=1}^n (X_i - \mu)^2}{2\sigma^2}\right) = \exp\left(-\frac{\sum_{i=1}^n X_i^2 - 2\mu \sum_{i=1}^n X_i + n\mu^2}{2\sigma^2}\right)$
+$\exp\left(-\frac{\sum_{i=1}^n (X_i - \mu)^2}{2\sigma^2}\right) = \exp\left(-\frac{\sum_{i=1}^n X_i^2 - 2\mu \sum \limits_{i=1}^n X_i + n\mu^2}{2\sigma^2}\right)$
 
 By completing the square for $\mu$, we get:
-$-\frac{\sum_{i=1}^n X_i^2 - 2\mu \sum_{i=1}^n X_i + n\mu^2 + \frac{(\mu - \mu_0)^2 \sigma^2}{\sigma_0^2}}{2\sigma^2} = -\frac{\left(\mu - \frac{\frac{\sum_{i=1}^n X_i}{\sigma^2} + \frac{\mu_0}{\sigma_0^2}}{\frac{n}{\sigma^2} + \frac{1}{\sigma_0^2}}\right)^2 \left(\frac{n}{\sigma^2} + \frac{1}{\sigma_0^2}\right)}{2}$
+$-\frac{\sum \limits_{i=1}^n X_i^2 - 2\mu \sum \limits_{i=1}^n X_i + n\mu^2 + \frac{(\mu - \mu_0)^2 \sigma^2}{\sigma_0^2}}{2\sigma^2} = -\frac{\left(\mu - \frac{\frac{\sum \limits_{i=1}^n X_i}{\sigma^2} + \frac{\mu_0}{\sigma_0^2}}{\frac{n}{\sigma^2} + \frac{1}{\sigma_0^2}}\right)^2 \left(\frac{n}{\sigma^2} + \frac{1}{\sigma_0^2}\right)}{2}$
 
 ### Full Conditional for $\mu$ (given $\sigma^2$):
 Thus, the full conditional density for $\mu$ is a normal distribution:
 $\mu | \sigma^2, X \sim N\left(\mu_n, \sigma_n^2\right)$
 where:
 $\sigma_n^2 = \left(\frac{n}{\sigma^2} + \frac{1}{\sigma_0^2}\right)^{-1}$
-$\mu_n = \sigma_n^2 \left(\frac{\sum_{i=1}^n X_i}{\sigma^2} + \frac{\mu_0}{\sigma_0^2}\right)$
+$\mu_n = \sigma_n^2 \left(\frac{\sum \limits_{i=1}^n X_i}{\sigma^2} + \frac{\mu_0}{\sigma_0^2}\right)$
 
 This is the exact full conditional density for $\mu$ given $\sigma^2$ and the data, combining Bayesian updating of the mean based on the observed data and the prior mean, appropriately weighted by their respective variances.
 
