@@ -90,7 +90,7 @@ $$= -\frac{\mu^2 - 2\mu\left( \frac{\frac{\sum\limits_{i=1}^nX_i}{\sigma^2} + \f
 
 Hence, we can know that
 $\mu_n = \frac{\frac{\sum \limits_{i=1}^n X_i}{\sigma^2} + \frac{\mu_0}{\sigma_0^2}}{\frac{n}{\sigma^2} + \frac{1}{\sigma_0^2}}$,
-$\sigma_n^2 = \left(\frac{n}{\sigma^2}\right)^{-1} +\frac{1}{\sigma_0^2}$
+$\sigma_n^2 = \left(\frac{n}{\sigma^2} +\frac{1}{\sigma_0^2}\right)^{-1}$
 
 ### Full Conditional for $\mu$ (given $\sigma^2$):
 Thus, the full conditional density for $\mu$ is a normal distribution:
