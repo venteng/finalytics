@@ -57,7 +57,7 @@ $L(\mu, \sigma^2) = (2\pi \sigma^2)^{-n/2} \exp\left(-\frac{\sum \limits_{i=1}^n
 Given $\sigma^2$, $\mu$ follows a normal distribution:
 $\mu | \sigma^2, X \sim N\left(\mu_n, \sigma_n^2\right)$
 where:
-$\sigma_n^2 = \left(\frac{1}{\sigma_0^2} + \frac{n}{\sigma^2}\right)^{-1}$
+$\sigma_n^2 = \left(\frac{1}{\sigma_0^2} + \frac{n}{\sigma^2}\right)^{-1}$,
 $\mu_n = \sigma_n^2 \left(\frac{\mu_0}{\sigma_0^2} + \frac{\sum \limits_{i=1}^n X_i}{\sigma^2}\right)$
 
 #### Full Conditional for $\sigma^2$
