@@ -48,7 +48,7 @@ $\mu_n = \sigma_n^2 \left(\frac{\mu_0}{\sigma_0^2} + \frac{\sum \limits_{i=1}^n 
 Given $\mu$, $\sigma^2$ follows an inverse gamma distribution:
 $\sigma^2 | \mu, X \sim \text{InverseGamma}\left(\alpha_n, \beta_n\right)$
 where:
-$\alpha_n = \alpha + \frac{n}{2}$
+$\alpha_n = \alpha + \frac{n}{2}$,
 $\beta_n = \beta + \frac{1}{2}\sum \limits_{i=1}^n (X_i - \mu)^2$
 
 ### 4. Gibbs Sampling Algorithm
@@ -78,6 +78,8 @@ $= (2\pi \sigma^2)^{-n/2} \exp\left(-\frac{\sum \limits_{i=1}^n (X_i - \mu)^2}{2
 
 ### Combining the Prior and Likelihood:
 
+#### 1. Find the full conditional for $\mu$
+
 To find the full conditional for $\mu$, we treat the above as a product of two exponentials and simplify.
 $$p(u)\times L(\mu,\sigma^2)=\frac{1}{\sqrt{2\pi\sigma_0^2}}exp(-\frac{(\mu-\mu_0)^2}{2\sigma_0^2})\times \prod \limits_{i=1}^n \frac{1}{\sqrt{2\pi \sigma^2}} \exp\left(-\frac{(X_i - \mu)^2}{2\sigma^2}\right)=(2\pi\sigma_0^2)^{-\frac{1}{2}}(2\pi\sigma^2)^{-\frac{n}{2}}\exp(-\frac{(\mu-\mu_0)^2}{2\sigma_0^2}-\frac{\left( \sum \limits_{i=1}^nX_i - \mu \right)^2}{2\sigma^2})$$
 
@@ -89,17 +91,21 @@ $$= -\frac{\left( \frac{\mu^2 n}{\sigma^2} + \frac{\mu^2}{\sigma_0^2} \right) - 
 $$= -\frac{\mu^2 - 2\mu\left( \frac{\frac{\sum\limits_{i=1}^nX_i}{\sigma^2} + \frac{\mu_0}{\sigma_0^2}}{\frac{n}{\sigma^2} + \frac{1}{\sigma_0^2}} \right) + \left( \frac{\frac{\left( \sum \limits_{i=1}^n X_i \right)^2}{\sigma^2} + \frac{\mu_0^2}{\sigma_0^2}}{\frac{n}{\sigma^2} + \frac{1}{\sigma_0^2}} \right)}{2} \left( \frac{n}{\sigma^2} + \frac{1}{\sigma_0^2} \right) = -\frac{\left(\mu - \frac{\frac{\sum \limits_{i=1}^n X_i}{\sigma^2} + \frac{\mu_0}{\sigma_0^2}}{\frac{n}{\sigma^2} + \frac{1}{\sigma_0^2}}\right)^2 \left(\frac{n}{\sigma^2} + \frac{1}{\sigma_0^2} \right)}{2}$$
 
 Hence, we can know that
-$\mu_n = \frac{\frac{\sum \limits_{i=1}^n X_i}{\sigma^2} + \frac{\mu_0}{\sigma_0^2}}{\frac{n}{\sigma^2} + \frac{1}{\sigma_0^2}}$,
-$\sigma_n^2 = \left(\frac{n}{\sigma^2} +\frac{1}{\sigma_0^2}\right)^{-1}$
+$$\mu_n = \frac{\frac{\sum \limits_{i=1}^n X_i}{\sigma^2} + \frac{\mu_0}{\sigma_0^2}}{\frac{n}{\sigma^2} + \frac{1}{\sigma_0^2}},
+\sigma_n^2 = \left(\frac{n}{\sigma^2} +\frac{1}{\sigma_0^2}\right)^{-1}$$
 
-### Full Conditional for $\mu$ (given $\sigma^2$):
-Thus, the full conditional density for $\mu$ is a normal distribution:
-$\mu | \sigma^2, X \sim N\left(\mu_n, \sigma_n^2\right)$
-where:
-$\sigma_n^2 = \left(\frac{n}{\sigma^2} + \frac{1}{\sigma_0^2}\right)^{-1}$
-$\mu_n = \sigma_n^2 \left(\frac{\sum \limits_{i=1}^n X_i}{\sigma^2} + \frac{\mu_0}{\sigma_0^2}\right)$
+#### 2. Find the full conditional for $\sigma^2$
 
-This is the exact full conditional density for $\mu$ given $\sigma^2$ and the data, combining Bayesian updating of the mean based on the observed data and the prior mean, appropriately weighted by their respective variances.
+To find the full conditional for $\sigma^2$, we treat the above as a product of two exponentials and simplify.
+$$p(\sigma^2)\times L(\mu,\sigma^2) = \frac{\beta^\alpha}{\Gamma(\alpha)} (\sigma^2)^{-\alpha - 1} \exp\left( -\frac{\beta}{\sigma^2} \right)\prod \limits_{i=1}^n \frac{1}{\sqrt{2\pi \sigma^2}} \exp\left( -\frac{(X_i - \mu)^2}{2\sigma^2} \right)$$
+
+$$ = \frac{\beta^\alpha}{\Gamma(\alpha)} (\sigma^2)^{-\alpha - 1} \exp\left( -\frac{\beta}{\sigma^2} \right) \left( 2\pi\sigma^2 \right)^{\frac{-n}{2}}\exp\left( -\frac{\sum \limits_{i=1}^n \left(X_i-\mu \right)^2}{2\sigma^2} \right)
+= \frac{\beta^{\alpha}\left(2\pi \right)^{\frac{-n}{2}}}{\Gamma \left( \alpha \right)} \left( \sigma^2 \right)^{-\left( \alpha+\frac{n}{2} \right) - 1} \exp\left( -\frac{1}{\sigma^2} \left( \beta+\frac{\sum \limits_{i=1}^n \left(X_i-\mu \right)^2}{2} \right) \right)$$
+
+Hence, we can know that
+$$\alpha_n = \alpha + \frac{n}{2},
+\beta_n = \beta + \frac{1}{2}\sum \limits_{i=1}^n (X_i - \mu)^2$$
+
 
 
 
