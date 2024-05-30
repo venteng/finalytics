@@ -2,7 +2,16 @@
 
 *by Huei-Wen Teng*
 
+
 This is an experiment to use gitHUB as a platform to collect and share tools from our research lab. 
+
+## topic
+
+
+| Index| Topic | Descrtions |
+|---|---|---|
+| 1 | powershap | A matehod that helps to select features|
+| 2 | MCMC | | 
 
 
 |Index|Topic | Member |Note|
@@ -12,4 +21,7 @@ This is an experiment to use gitHUB as a platform to collect and share tools fro
 |3 | Market risk management| David, Wendy, James| FRM, VaR, ES|
 |4 | ESG | Howard| Taiwan|
 | 5| Reinforcmeent learning | Mark | crypto and TW stocks|
+
+
+
 
