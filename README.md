@@ -8,9 +8,9 @@ This is an experiment to use gitHUB as a platform to collect and share tools fro
 ## topic
 
 
-| Index| Topic | Descrtions |
+| Index| Topic | Descrtions | Members |
 |---|---|---|
-| 1 | powershap | A matehod that helps to select features|
+| 1 | powershap | A matehod that helps to select features| Yenting| 
 | 2 | MCMC | | 
 
 
