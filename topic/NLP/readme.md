@@ -11,6 +11,15 @@ paper
 2. Topic: returns prediction using sentiment analysis.
 
 
+## Qauntinar explorations
+
+
+### 1. DEDA_class_SoSe2023_Covid-19_Financial_News_Sentiment_Analysis
+
+Summary: useless,.. 
+
+
+
 ABSA.
 
 ## Teng's guess/dream
