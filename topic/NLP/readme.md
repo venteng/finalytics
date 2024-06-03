@@ -30,8 +30,10 @@ Aims
 3. text: ? 
 x: existing features
 
-model 1: y = f( x, Standard polarity) 
-modeL 2: y = f( x, **Our proposed polarity**) 
+
+
+1: y = f( x, Standard polarity) 
+2: y = f( x, **Our proposed polarity**) 
 
 
 
