@@ -16,9 +16,9 @@ ABSA.
 ## Teng's guess/dream
 
 Aims
-1. returns prediction
-2. "LLM assisted features"
-
+1. returns prediction ok
+2. NLP and LLM: ? 
+3. text: ? 
 x: existing features
 
 model 1: y = f( x, Standard polarity) 
