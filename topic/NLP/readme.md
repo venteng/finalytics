@@ -4,19 +4,15 @@
 ## Reference
 
 
-1. 20240603 present
-paper
-
-
+1. Alex's present the paper: Leveraging hierarchical language models for aspect-based sentiment analysis on financial data
 2. Topic: returns prediction using sentiment analysis.
-
+   
 
 ## Qauntinar explorations
 
-
 ### 1. DEDA_class_SoSe2023_Covid-19_Financial_News_Sentiment_Analysis
 
-Summary: useless,.. 
+Summary: explainations  
 
 
 
