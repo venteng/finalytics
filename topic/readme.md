@@ -17,3 +17,5 @@
 | NLP | Alex|
 |ESG| Howard| Taiwan, green convertable notes|
 | Reinforcement learning|Mark| TW stocks and cryptos|
+| Crash detection | Jason| KY Lee|
+| AI | Jason |
