@@ -1,10 +1,10 @@
 
 
-| Topic | Team|
-|---|--|
+| Topic | Team| Note|
+|---|--|---|
 | Financial Risk | David|
 | Quantile regression | David|
-| Feature selection | Yenting|
+| powershap | Yenting| feature selection | 
 | Returns prediction | Yenting|
 | Value-at-Risk | Wendy, Yenting, James| 
 | MCMC|James|
