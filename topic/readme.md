@@ -9,7 +9,7 @@
 | Value-at-Risk | Wendy, Yenting, James| 
 | MCMC|James|
 | SVCJ | James | 
-| credit risk | Paul|
-| explainable AI | Paul|
+| Credit risk | Paul|
+| Explainable AI | Paul|
 | NLP | Alex|
 |ESG| Howard|
