@@ -1,6 +1,6 @@
 
 
-| Topic | Member|
+| Topic | Team|
 |---|--|
 | Financial Risk | David|
 | Quantile regression | David|
