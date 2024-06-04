@@ -1,5 +1,14 @@
 
 
-powershap | |
-1. quantile regression
-2. the Markov chain Monte Carlo (MCMC) simulation 
+| Topic | Member|
+|---|--|
+| Financial Risk | David|
+| Quantile regression | David|
+| Feature selection | Yenting|
+| Value-at-Risk | Wendy, Yenting, James| 
+| MCMC|James|
+| SVCJ | James | 
+| credit risk | Paul|
+| explainable AI | Paul|
+| NLP | Alex|
+|ESG| Howard|
