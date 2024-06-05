@@ -7,7 +7,7 @@
 |---|--|---|
 | Financial Risk | David| FRM
 | Quantile regression | David|
-| powershap | Yenting| feature selection, a wrapper method that ensure power. | 
+| feature selection | Yenting (powershap0, YenChang, David (RFE) | feature selection, a wrapper method that ensure power. | 
 | Returns prediction | Yenting, Ghomas| crypto returns, ETF|
 | Value-at-Risk| Wendy, Yenting, James| 
 | MCMC|James, Wendy| MH, Gibbs, etc|
