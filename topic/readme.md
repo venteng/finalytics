@@ -12,7 +12,8 @@
 | Returns prediction | Yenting, Ghomas| crypto returns, ETF|
 | Value-at-Risk| Wendy, Yenting, James| 
 | MCMC|James, Wendy| MH, Gibbs, etc|
-| SVCJ | James, Wendy | 
+| SVCJ | James, Wendy, David |
+| EPK| David, Wendy|
 | Credit risk | Paul|
 | Explainable AI | Paul, Mark|
 | NLP | Alex, James|
