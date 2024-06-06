@@ -1,7 +1,7 @@
 # EPK
 
 
-1. Provide a keynote to introduce EPK.
+1. Provide a keynote to introduce EPK (max 20 pages) 
 
 2. Please provide a list of slides regarding EPK in Quantinars.
 
