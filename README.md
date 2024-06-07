@@ -18,6 +18,8 @@ This is an experiment to use gitHUB as a platform to collect and share tools fro
 | Time | Speaker | Topic |
 |----|----|----|
 | 10:30 - 10:50 | Yenting | Predicting BTC returns|
+| |Howard? | ESG green structuren note|
+| |Jason? | Crash detection|
 | 10:50 - 11:10 | Paul | Credit risk |
 | 11:10 - 11:35| Tomy |
 |11:35 - 11:50 | Phoebe|
