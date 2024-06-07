@@ -21,3 +21,4 @@
 | Reinforcement learning|Mark| TW stocks and cryptos|
 | Crash detection | Jason| KY Lee|
 | AI | Jason |
+| Time Series| 
