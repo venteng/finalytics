@@ -12,7 +12,7 @@ This is an experiment to use gitHUB as a platform to collect and share tools fro
 1. Yenting, xxx JF...
 
 
-## 20240611 Group meeting
+## 20240611 Group Meeting
 
 
 | Time | Speaker | Topic |
@@ -26,8 +26,8 @@ This is an experiment to use gitHUB as a platform to collect and share tools fro
 | 12:30 - 13:30| Lunch |
 
 
-
-## 20240515
+ 
+## 20240515 Group Meeting
 
 | Index | Speaker | Topic |Link|
 |--|--|--|--|
