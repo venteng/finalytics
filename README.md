@@ -10,7 +10,6 @@ This is an experiment to use gitHUB as a platform to collect and share tools fro
 
 
 1. Yenting presents a paper in JF about crypto returns
-2. 
 
 
 ## 20240611 Group Meeting
