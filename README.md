@@ -21,11 +21,11 @@ This is an experiment to use gitHUB as a platform to collect and share tools fro
 | 10:40 - 10:55 |Howard? | ESG green structuren note|
 | 10:55 - 11:10 |Jason? | Crash detection|
 | 11:10 - 11:25 | Paul | Credit risk |
-| 11:25 - 11:40 | Math student |
-|11:40 - 11:55  | Tomy |
+| 11:25 - 11:40 | Math student | Spectural clustering in credit risk|
+|11:40 - 11:55  | Tomy | 
 | 11:55 - 12:10 | Phoebe |  
-| 12:10 - 12:30 | Network|
-| 12:30 - 14:00 | Lunch |
+| 12:10 - 12:30 | Network| Self introduction | 
+| 12:30 - 14:00 | Lunch | 
 
 
  
