@@ -9,7 +9,8 @@ This is an experiment to use gitHUB as a platform to collect and share tools fro
 ## Paper to present
 
 
-1. Yenting, xxx JF...
+1. Yenting presents a paper in JF about crypto returns
+2. 
 
 
 ## 20240611 Group Meeting
