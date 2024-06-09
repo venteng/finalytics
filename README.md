@@ -17,15 +17,15 @@ This is an experiment to use gitHUB as a platform to collect and share tools fro
 
 | Time | Speaker | Topic |
 |----|----|----|
-| 10:30 - 10:50 | Yenting | Predicting BTC returns|
-| |Howard? | ESG green structuren note|
-| |Jason? | Crash detection|
-| 10:50 - 11:10 | Paul | Credit risk |
-| 11:10 - 11:35| Tomy |
-|11:35 - 11:50 | Phoebe|
-| 11:50 - 12:10| Math student|  
-| 12:10 - 12:30| Network|
-| 12:30 - 13:30| Lunch |
+| 10:30 - 10:40 | Yenting | Predicting BTC returns|
+| 10:40 - 10:55 |Howard? | ESG green structuren note|
+| 10:55 - 11:10 |Jason? | Crash detection|
+| 11:10 - 11:25 | Paul | Credit risk |
+| 11:25 - 11:40 | Math student |
+|11:40 - 11:55  | Tomy |
+| 11:55 - 12:10 | Phoebe |  
+| 12:10 - 12:30 | Network|
+| 12:30 - 14:00 | Lunch |
 
 
  
