@@ -4,7 +4,7 @@
 By Jason 
 
 
-## 1. Guidlines
+## 1. Guidelines
 
 
 1. Provid slides to introduce "crash detection"
