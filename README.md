@@ -1,12 +1,10 @@
 # README
 
-*by Huei-Wen Teng*
-
-
-# 研究專案建議步驟 
-
-
 *Last modified by Huei-Wen Teng on 20240610*
+
+How do we initiate and complete a professional paper? 
+
+
 
 ## Step 1: Exploration and Write up
 
