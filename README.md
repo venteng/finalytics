@@ -45,18 +45,12 @@ This is an experiment to use gitHUB as a platform to collect and share tools fro
 
 | Time | Speaker | Topic |
 |----|----|----|
-|13:00	| Howard	| Redispatch 2.0 |
+|13:00	| Howard	| Redispatch 2.0 https://www.sciencedirect.com/science/article/pii/S0306261923017154?via%3Dihub |
 |13:20	| Howard	| Taipower |
 |14:00 |	David	| FRM@Taiwan|
 |14:30	| Yenting	| powershap|
 
  
-## 20240515 LAB MEETING
-
-| Index | Speaker | Topic |Link|
-|--|--|--|--|
-|1 | Howard | Redispatch 2.0| https://www.sciencedirect.com/science/article/pii/S0306261923017154?via%3Dihub |
-
 
 
 
