@@ -6,8 +6,8 @@
 4. Review papers in Steps 2 and 3 and go back to modify sldies in Step 1. 
 
 
-|Index| Title | Link |
-| -- | -- | --- |
+|Index| Title | Link | Significance|
+| -- | -- | --- |---|
 | 01 | Pricing and Hedging Inverse BTC Options | https://quantinar.com/course/136/price-hedging |
 | 02 | Crypto Currency Returns | https://quantinar.com/course/578/crypto-currency-returns |
 | 03 | Hedging Cryptocurrency Options | https://quantinar.com/course/56/cryptohedging |
