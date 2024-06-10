@@ -3,25 +3,27 @@
 
 ## Topics and their teams 
 
-| Topic | Team| Note|
+| Topic | Leader | Note|
 |---|--|---|
-| Financial Risk | David| FRM
+| Financial Risk | David| 
+| FRM | David| 
 | Quantile regression | David|
-| feature selection | David (RFE), Yenchang, Yenting |  | 
-| powerShap | Yenting, YenChang, David  | feature selection, a wrapper method that ensure power. | 
-| Returns prediction | Yenting, Ghomas| crypto returns, ETF|
+| RFE | David | feature selection | 
+| powerShap | Yenting  | feature selection, a wrapper method that ensure power. | 
+| Crypto | Yenting | 
+| Returns prediction | Yenting| crypto returns, ETF|
 | Value-at-Risk| Wendy, Yenting, James| 
-| MCMC|James, Wendy| MH, Gibbs, etc|
-| SVCJ | James, Wendy, David |
-| EPK| David, Wendy|
+| MCMC|James| MH, Gibbs, etc|
+| SVCJ | James|
+| Option implied information| Wendy|
 | Credit risk | Paul|
-| Explainable AI | Paul, Mark|
-| NLP | Alex, James|
+| Explainable AI | Paul|
+| Text mining| James|
+| NLP | Alex|
 |ESG| Howard| Taiwan, green convertable notes|
 | Reinforcement learning|Mark| TW stocks and cryptos|
 | Crash detection | Jason| KY Lee|
 | AI | Jason |
-| Time Series| 
 
 
 --- 
