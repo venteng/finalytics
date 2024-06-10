@@ -4,7 +4,7 @@
 By Jason 
 
 
-## 
+## 1. Guidlines
 
 
 1. Provid slides to introduce "crash detection"
@@ -13,10 +13,10 @@ By Jason
 4. Repeat 2 and 3 and return to step 1 to modify sldies in Step 1.
 
 
-## Quantinars
+## 2. Quantinars
 
 
-## Papers found in google scholar 
+## 3. Papers found in google scholar 
 
 
 Here is the updated table with the "Journal" column removed:
