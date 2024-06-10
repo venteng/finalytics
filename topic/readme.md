@@ -26,6 +26,9 @@ By Jason
 
 ## 2. Lsit of Quantinars
 
+
+Search keywords? 
+
 | Title | Link | Significance|
 | -- | --- |---|
 | Pricing and Hedging Inverse BTC Options | https://quantinar.com/course/136/price-hedging | 80%|
