@@ -1,5 +1,6 @@
 # EPK
 
+*By David?* 
 
 1. Provide a keynote to introduce EPK (max 20 pages) 
 
