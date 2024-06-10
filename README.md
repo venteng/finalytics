@@ -37,7 +37,7 @@ This is an experiment to use gitHUB as a platform to collect and share tools fro
 | Time | Speaker | Topic |
 |----|----|----|
 |12:30-13:30|	Yenting	| Predicting BTC returns|
-|14:30-15:00|	Paul	| Credit scoring<img width="454" alt="image" src="https://github.com/venteng/finalytics/assets/55239313/260f079d-c4dd-45d6-86e7-287b35e22ba1">|
+|14:30-15:00|	Paul	| Credit scoring|
 
 
 ## 20240531 LAB MEETING
@@ -48,7 +48,7 @@ This is an experiment to use gitHUB as a platform to collect and share tools fro
 |13:00	| Howard	| Redispatch 2.0 |
 |13:20	| Howard	| Taipower |
 |14:00 |	David	| FRM@Taiwan|
-|14:30	| Yenting	| powershap<img width="454" alt="image" src="https://github.com/venteng/finalytics/assets/55239313/1a78d1dd-2e71-4600-9087-1986693d46d3">|
+|14:30	| Yenting	| powershap|
 
  
 ## 20240515 LAB MEETING
