@@ -13,7 +13,7 @@ How do we initiate and complete a professional paper?
     2. All figures must be in transparent
     3. Add comments in the invisible authors' comments window
 2. Star to work on literature review by decompositing your work into a set of topics
-3. Start to write up a paper once steps 1 and 2 are done [(more...)](https://hackmd.io/_eKxt4LLT-SGCrr5NFeByA). 
+3. Start to write up a paper using overleaf once steps 1 and 2 are done. 
 4. Start to code and do data anlaysis
 5. Need to use chatGPT or grammarly to check errors and improve language. 
 
