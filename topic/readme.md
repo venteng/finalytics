@@ -24,9 +24,9 @@
 | Time Series| 
 
 
+--- 
 
-
-## Example for each readme file
+## Template in each readme file
 
 
 # Crash detection
