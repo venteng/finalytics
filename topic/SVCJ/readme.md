@@ -15,4 +15,4 @@
 | 05 | Statistics of Financial Markets Chapter 31 - Realized Volatility (CV) | https://quantinar.com/course/390/chapter-31-realized-volatility |
 | 06 | On Crypto-backed Loans | https://quantinar.com/course/174/On-Crypto-backed-Loans |
 | 07 | Crypto Based P2P Lending: Batch Liquidation | https://quantinar.com/course/58/P2P |
-| 08 | Localising Forward Intensities for Multiperiod Default | https://quantinar.com/course/157/localising-forward-intensities-for-multiperiod-default |
+| 08 | Localising Forward Intensities for Multiperiod Default | https://quantinar.com/course/157/localising-forward-intensities-for-multiperiod-default | Why? |
