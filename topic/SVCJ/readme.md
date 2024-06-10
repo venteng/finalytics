@@ -2,7 +2,8 @@
 
 1. David: Provid and modify slides to introduce SVCJ
 2. List of slides in Quaninars
-3. Review papers in Step 2 and go back to modify sldies in Step 1. 
+3. List of papers in Google Scholars
+4. Review papers in Steps 2 and 3 and go back to modify sldies in Step 1. 
 
 
 |Index| Title | Link |
