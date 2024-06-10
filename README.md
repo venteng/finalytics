@@ -12,7 +12,7 @@ This is an experiment to use gitHUB as a platform to collect and share tools fro
 1. Yenting presents a paper in JF about crypto returns
 
 
-## 20240611 Group Meeting
+## 20240611 LAB MEETING
 
 
 | Time | Speaker | Topic |
@@ -28,8 +28,11 @@ This is an experiment to use gitHUB as a platform to collect and share tools fro
 | 12:30 - 14:00 | Lunch | 
 
 
+
+
+
  
-## 20240515 Group Meeting
+## 20240515 LAB MEETING
 
 | Index | Speaker | Topic |Link|
 |--|--|--|--|
