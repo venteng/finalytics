@@ -23,4 +23,6 @@ Here is the updated table with the "Journal" column removed:
 
 | BibTeX | Edition | Categories | Rank | Citation | Keyword |
 | --- | --- | --- | --- | --- | --- |
-| @article{hou2020pricing,title={Pricing cryptocurrency options},author={Hou, Ai Jun and Wang, Weining and Chen, Cathy YH and H{\"a}rdle, Wolfgang Karl},journal={Journal of Financial Econometrics},volume={18},number={2},pages={250--279},year={2020},publisher={Oxford University Press}} | SSCI | BUSINESS, FINANCE, ECONOMICS | 154/557, 27.65% | 74 | SVCJ, MCMC |
+| @article{phillips2015testing,title={Testing for multiple bubbles: Historical episodes of exuberance and collapse in the S\&P 500},author={Phillips, Peter CB and Shi, Shuping and Yu, Jun},journal={International economic review},volume={56},number={4},pages={1043--1078},year={2015},publisher={Wiley Online Library}} | SSCI | ECONOMICS | 251/380 | CrossRef:702 |  |
+| @article{scheffer_bascompte_brock_2009, title={Early-warning signals for critical transitions}, volume={461}, DOI={https://doi.org/10.1038/nature08227}, author={Scheffer, M. and Bascompte, J. and Brock, W.}, year={2009}, month={Jun}, pages={53–59} } | SCIE | MULTIDISCIPLINARY SCIENCES | 1/73 | CrossRef:2778 |  |
+
