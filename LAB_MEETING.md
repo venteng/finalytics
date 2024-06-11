@@ -1,16 +1,25 @@
 # LAB MEETING
 
 
+## 202406  LAB MEETING
+
+
+| Time | Speaker | Topic |
+|----|----|----|
+| xxx |Jason | Crash detection|
+| xxx | Paul | Credit risk |
+
+
+
+
 ## 20240611 LAB MEETING
 
 | Time | Speaker | Topic |
 |----|----|----|
-| 10:30 - 10:40 | Yenting | Predicting BTC returns|
-| 10:40 - 10:55 |Howard | ESG green structuren note|
-| 10:55 - 11:10 |Jason | Crash detection|
-| 11:10 - 11:25 | Paul | Credit risk |
-| 11:25 - 11:40 | Math student | Spectural clustering in credit risk|
-|11:40 - 11:55  | Tomy | 
+| 10:30 | Yenting | Predicting BTC returns|
+| 11:00 |Howard | ESG green structuren note|
+| 11:25 | Math student | Spectural clustering in credit risk|
+|11:50 - 11:55  | Tomy | 
 | 11:55 - 12:10 | Phoebe |  
 | 12:10 - 12:30 | Network| Self introduction | 
 | 12:30 - 14:00 | Lunch | 
