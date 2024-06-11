@@ -15,13 +15,6 @@
 | 12:10 - 12:30 | Network| Self introduction | 
 | 12:30 - 14:00 | Lunch | 
 
-## 20240524 LAB MEETING
-
-| Time | Speaker | Topic |
-|----|----|----|
-|12:30-13:30|	Yenting	| Predicting BTC returns|
-|14:30-15:00|	Paul	| Credit scoring|
-
 
 ## 20240531 LAB MEETING
 
@@ -34,3 +27,10 @@
 |14:30	| Yenting	| powershap|
 
  
+## 20240524 LAB MEETING
+
+| Time | Speaker | Topic |
+|----|----|----|
+|12:30-13:30|	Yenting	| Predicting BTC returns|
+|14:30-15:00|	Paul	| Credit scoring|
+
