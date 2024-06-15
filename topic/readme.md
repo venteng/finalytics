@@ -57,7 +57,7 @@ Search keywords?
 | powerShap | Yenting  | feature selection, a wrapper method that ensure power. | 
 | Crypto | Yenting | 
 | Returns prediction | Yenting| crypto returns, ETF|
-| Value-at-Risk| Wendy, Yenting, James| 
+| Value-at-Risk| Wendy| 
 | MCMC|James| MH, Gibbs, etc|
 | SVCJ | James|
 | Option implied information| Wendy|
