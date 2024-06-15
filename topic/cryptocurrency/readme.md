@@ -1,7 +1,9 @@
 # cryptocurrencies
 
 *By Yenting*
-
+| BibTeX | Edition | Categories | Rank | Citation | Keyword |
+| --- | --- | --- | --- | --- | --- |
+| @incollection{mihoci2020frm, title={{FRM Financial Risk Meter}}, author={Mihoci, Andrija and Althof, Michael and Chen, Cathy Yi-Hsuan and H{\"a}rdle, Wolfgang Karl}, booktitle={The Econometrics of Networks}, volume={42}, pages={335--368}, year={2020}, publisher={Emerald Publishing Limited} } |  |  |  | 31 | Financial Risk Meter |
 
 
 |keywords | 	Journal Ranking Factor |	#Citation |	bibentry|
