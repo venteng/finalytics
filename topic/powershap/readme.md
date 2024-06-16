@@ -1,4 +1,8 @@
 # Review on the method of powershap
+| BibTeX | Edition | Categories | Rank | Citation | Keyword |
+| --- | --- | --- | --- | --- | --- |
+| Verhaeghe, J., Van Der Donckt, J., Ongenae, F., & Van Hoecke, S. (2022, September). Powershap: A power-full shapley feature selection method. In Joint European conference on machine learning and knowledge discovery in databases (pp. 71-87). Cham: Springer International Publishing.| |  |  | 13 | Powershap |
+
 
 
 ## Authors YenTing Chen 
