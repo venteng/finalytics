@@ -23,7 +23,8 @@ How do we initiate and complete a professional paper?
 
 1. 口試時間約20-30分鐘。Including presentation+Q&A
 2. 投影片請勿超過25頁
-3. 兩周前寄送電子論文以及相關表格給口委。
+3. 兩周前寄送電子論文, 投影片，以及相關表格給口委。
+4. 口試當天請印出投影片給口委(雙面,一張四頁）。
 
 ## Step 3: 檔案備份
 
