@@ -17,7 +17,7 @@
 
 ### 2.1: Exploration and Write up
 
-1. Download "yyyymmdd finalytics (template).key" or  "yyyymmdd finalytics (template).excel" to initiate and explore your ideas. 
+1. Download "20240701 finalytics README (template).key" or  "yyyymmdd finalytics README (template).xls" to initiate and explore your ideas. 
     1. Start with an appealing title
     2. All figures must be in transparent
     3. Add comments in the invisible authors' comments window
