@@ -2,7 +2,9 @@
 
 ## Latest update 20240425 by HWTeng
 
-## 1. Tables
+
+
+## Tables
 
 1. Do not use any verticle lines.
 2. Use only minimal number of horizonal lines
