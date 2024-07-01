@@ -9,23 +9,22 @@
 4. Tools: How to download data and high computer performance
 5. Topic: Research topics identified, explored, and clarified from the project
 
-
-
 ## 2. How do we initiate and complete a professional paper? 
-
-
 
 ### 2.1: Exploration and Write up
 
-1. Download "20240701 finalytics README (template).key" or  "yyyymmdd finalytics README (template).xls" to initiate and explore your ideas. 
-    1. Start with an appealing title
-    2. All figures must be in transparent
-    3. Add comments in the invisible authors' comments window
-2. Star to work on literature review by decompositing your work into a set of topics. 
-3. Start to write up a paper using overleaf once Steps 1 and 2 are done. 
-4. Start to code and do data anlaysis
-5. Update your slides and return to Step 4. 
-6. Need to use chatGPT or grammarly to check errors and improve language. 
+1. Download "20240701 finalytics README (template).key" or  "yyyymmdd finalytics README (template).xls" to initiate and explore your ideas in your folder.
+       
+    1. Change the finamle: change "finalytics" to your name, and remove "(template)".
+    3. Start with an appealing title
+    4. Start with a kenote slides (download from the presentatino folder). 
+    5. All figures must be in transparent
+    6. Add comments in the invisible authors' comments window
+3. Star to work on literature review by decompositing your work into a set of topics. 
+4. Start to write up a paper using overleaf once Steps 1 and 2 are done. 
+5. Start to code and do data anlaysis
+6. Update your slides and return to Step 4. 
+7. Need to use chatGPT or grammarly to check errors and improve language. 
 
 
 ### 2.2: 口試
