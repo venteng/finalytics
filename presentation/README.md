@@ -14,7 +14,7 @@ https://youtu.be/KcGHqGQUOis
 1. 中英文的內容翻譯需要一致，不能各寫各的。 
 2. A paragraph will include 5 to 10 lines. Too big paragraph makes me dizzy. 
 3. Include url for dataset if possible
-4. Switch to NYCU template, because Thesis uses chapters but not just sections. But do not use logo's, Chinese, stuffs like that, at this moment. Just use English. Thesis template can be found for example in [an overleaf template found by Ian](https://www.overleaf.com/latex/templates/national-yang-ming-chiao-tung-university-nycu-thesis-template/zgjfrxhcdcmj?fbclid=IwAR3OUXIOJ7jLGLMquRjJeLE_Ml2lYlgWyEoDCra9YacgAwyql4_R0VbrO-I). 
+4. Switch to NYCU template, because Thesis uses chapters but not just sections. But do not use logo's, Chinese, stuffs like that, at this moment. Just use English. Thesis template can be found for example in [an overleaf template found by Ian](https://www.overleaf.com/latex/templates/national-yang-ming-chiao-tung-university-nycu-thesis-template/zgjfrxhcdcmj?fbclid=IwAR3OUXIOJ7jLGLMquRjJeLE_Ml2lYlgWyEoDCra9YacgAwyql4_R0VbrO-I) on 20220630. 
 
 ## Latex
 
