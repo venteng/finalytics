@@ -3,15 +3,13 @@
 
 Latest update 20240701 by HWTeng
 
-## 利用Mac 無邊記做成 流程圖
+## 利用Mac 無邊記 設計流程圖
 
 1. 輸出成pdf 即可直接貼在keynote上為透明的圖片
 
 https://youtu.be/KcGHqGQUOis
 
-
-
-## Tables
+## Tables 表格
 
 1. Do not use any verticle lines.
 2. Use only minimal number of horizonal lines
