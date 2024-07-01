@@ -1,6 +1,13 @@
 # Tips in presentation and writing
 
-## Latest update 20240701 by HWTeng
+
+Latest update 20240701 by HWTeng
+
+## 利用Mac 無邊記做成 流程圖
+
+1. 輸出成pdf 即可直接貼在keynote上為透明的圖片
+
+https://youtu.be/KcGHqGQUOis
 
 
 
