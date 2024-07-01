@@ -2,11 +2,12 @@
 
 *Last modified by Huei-Wen Teng on 20240610*
 
-## 1. Map 
+## 1. Overview of the folders
 
 1. Presentation: Presentation details and techniques for editing slides, manuscripts, and thesises.
-2. Topics: Research topics explored from a project
-3. Tools: How to download data and high computer performance
+2. Python: Some python codes maybe in general useful
+4. Tools: How to download data and high computer performance
+5. Topic: Research topics identified, explored, and clarified from the project
 
 
 
