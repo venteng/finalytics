@@ -1,6 +1,6 @@
 # Tips in presentation and writing
 
-## Latest update 20240425 by HWTeng
+## Latest update 20240701 by HWTeng
 
 
 
