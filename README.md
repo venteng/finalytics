@@ -37,14 +37,15 @@
 ### 2.3 檔案備份
 
 1. 繳交所有學校需要相關資料表格
-2. A shared google drive with manuscript, talk, vedio, coding, data, github(?)
-    1. yyyymmdd NAME Slides.pdf 
-    2. yyyymmdd NAME Talk.mp4 :apple:
-    3. yyyymmdd NAME Paper.pdf :apple:
-    4. yyyymmdd NAME Thesis.pdf
-    5. 'raw data': just the raw data
-    6. 'coding': codes and data. REAMDE.txt explains how to do the coding. 
-    8. 'manuscript': zipped file from overleaf including both manuscript and slides
+2. A shared folder (iCloud, google drive, One cloud)  with manuscript, talk, vedio, coding, data, github(?)
+   1. yyyymmdd Name README.num (xlxs)
+   2. yyyymmdd NAME Slides.pdf (key, ppt)
+   3. yyyymmdd NAME Talk.mp4 :apple:
+    4. yyyymmdd NAME SSRN Paper.pdf :apple:
+    5. yyyymmdd NAME NYCU Thesis.pdf
+    6. 'raw data': just the raw data
+    7. 'coding': codes and data. REAMDE.txt explains how to do the coding. 
+    8. 'manuscript': zipped file from overleaf including manuscripts
     9. 'reference': include all materials, filename equals the bib label. 
 
 This is an experiment to use gitHUB as a platform to collect and share tools from our research lab. 
