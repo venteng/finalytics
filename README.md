@@ -22,7 +22,7 @@
     4. Start with a kenote slides (download from the presentatino folder). 
     5. All figures must be in transparent
     6. Add comments in the invisible authors' comments window
-3. Star to work on literature review by decompositing your work into a set of topics. 
+3. Start to work on literature review by decompositing your work into a set of topics. 
 4. Start to write up a paper using overleaf once Steps 1 and 2 are done. 
 5. Start to code and do data anlaysis
 6. Update your slides and return to Step 4. 
