@@ -1,16 +1,30 @@
 # LAB MEETING
 
 
-## AI tools
+## Individual meeting 2024 Summer
 
-
-|Date | By| Topic   | Link|
-|--|---|---|--|
-|20240703| T2 | 2024最好用的AI工具 | https://youtu.be/ZDonlcn23ew?si=SOb7WxgH6fMCM7yi| 
-|20240703| T2 | Awesome-LLM | https://github.com/Hannibal046/Awesome-LLM|
-
+|Name| 1| 2| 3| 4| 5|6|7|8|9|10|
+|---|--|--|--|--|--|--|--|--|--|--|
+|Mark| 
+|YT|
+|David|
+|YC|
+|Ghomas
+| James|
+|Wendy | 
+| Paul|
+|Howard|
+| Jason|
+| Max|
+| Ben | 
 
 ## Group meeting 
+
+
+
+
+## Previous meeting
+
 
 ### 2024 Spring Semester
 
