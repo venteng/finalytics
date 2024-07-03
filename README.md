@@ -65,22 +65,19 @@
 2. 上傳論文至SSRN並提供連結
 
     
-### 口試須完成表格
+### 口試須繳交表格
 
-1. HWT開啟google共享folder,以學生名命名。
-2. 口試學生請將個別文件請存成以下檔名
-<img width="251" alt="image" src="https://github.com/venteng/finalytics/assets/55239313/3654f8ff-5e2f-49db-92c8-49aac9b0bec9">
-口委簽好名，回信給口試學生。
-3. 口試學生確認要輪流簽名的文件無誤後，將所有文件上傳到自己的shared folder. 
-4. 若需要線上傳遞共同簽名文件，可用：https://www.dottedsign.com/pricing/
-
-
-
-#### 口試後需繳交文件
+1. 請先選出一位leader. 
+2. HWT開啟google共享folder, 'YYYYMM', 以及以下的subfolder, 以學生名命名。
+3. 口試學生請將個別文件請存成以下檔名: 
+4. 口委簽好名，回信給口試學生。
+5. 口試學生確認要簽名以及輪流簽名的文件無誤後，將所有文件上傳到自己的shared folder. 
+6. 若需要線上傳遞共同簽名文件，可用：https://www.dottedsign.com/pricing/
 
 
+<img width="1051" alt="image" src="https://github.com/venteng/finalytics/assets/55239313/3c9689a7-d1a4-4292-8997-b5404c14b7ae">
 
-   
+
 
 ### 2.3 檔案備份
 
