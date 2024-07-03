@@ -2,6 +2,18 @@
 
 *Last modified by Huei-Wen Teng on 20240701*
 
+## Most updated AI tools
+
+
+|Date | By| Topic   | Link|
+|--|---|---|--|
+|20240703| T2 | 2024最好用的AI工具 | https://youtu.be/ZDonlcn23ew?si=SOb7WxgH6fMCM7yi| 
+|20240703| T2 | Awesome-LLM | https://github.com/Hannibal046/Awesome-LLM|
+
+
+
+
+
 ## 1. Overview of the folders
 
 1. "download": template to download.
