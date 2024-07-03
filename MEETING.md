@@ -1,10 +1,10 @@
 # LAB MEETING
 
 
-## Individual meeting 2024 Summer
+## Individual meeting Jul 2024 
 
-|Name| 1| 2| 3| 4| 5|6|7|8|9|10|
-|---|--|--|--|--|--|--|--|--|--|--|
+|Name| 1| 2| 3| 4| 5|6
+|---|--|--|--|--|--|--|
 |Mark| 
 |YT|
 |David|
