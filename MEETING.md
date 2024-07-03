@@ -10,8 +10,9 @@
 |20240703| T2 | Awesome-LLM | https://github.com/Hannibal046/Awesome-LLM|
 
 
+## Group meeting 
 
-## 2024 Spring Semester
+### 2024 Spring Semester
 
 |Date | Time | Speaker | Topic |
 |---|----|----|----|
