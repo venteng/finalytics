@@ -3,6 +3,8 @@
 
 ## Individual meeting Jul 2024 
 
+YYMMDD HHMM (hours)
+
 |Name| 1| 2| 3| 4| 5|6 | 7|8|
 |---|--|--|--|--|--|--|--|--|
 |Mark| 
