@@ -39,8 +39,8 @@ format: MMDD HHMM (hours)
 
 |Date | By| Topic   | Link|
 |--|---|---|--|
-|20240703| T2 | 2024最好用的AI工具 | https://youtu.be/ZDonlcn23ew?si=SOb7WxgH6fMCM7yi| 
-|20240703| T2 | Awesome-LLM | https://github.com/Hannibal046/Awesome-LLM|
+|20240703| HWT | 2024最好用的AI工具 | https://youtu.be/ZDonlcn23ew?si=SOb7WxgH6fMCM7yi| 
+|20240703| HWT | Awesome-LLM | https://github.com/Hannibal046/Awesome-LLM|
 
  
 
