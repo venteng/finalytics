@@ -1,8 +1,8 @@
 # Tips
 
-## STEP 1: How do we initiate and complete a professional paper? 
+## How do we initiate and complete a professional paper? 
 
-### Exploration and Write up
+### STEP 1: Exploration and Write up
 
 1. Download "20240701 finalytics README (template).key" or  "yyyymmdd finalytics README (template).xls" to initiate and explore your ideas in your folder.
        
@@ -62,8 +62,6 @@
     9. 'reference': include all materials, filename equals the bib label. 
 
 This is an experiment to use gitHUB as a platform to collect and share tools from our research lab. 
-
-
 
 
 ## Previous meeting
