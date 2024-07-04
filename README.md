@@ -21,6 +21,11 @@ format: MMDD HHMM (hours)
 |M0| BS | 
 |U| MC|
 
+## Group meeting 
+
+
+
+
 
 ## Overview of the folders
 
@@ -38,9 +43,6 @@ format: MMDD HHMM (hours)
 |--|---|---|--|
 |20240703| T2 | 2024最好用的AI工具 | https://youtu.be/ZDonlcn23ew?si=SOb7WxgH6fMCM7yi| 
 |20240703| T2 | Awesome-LLM | https://github.com/Hannibal046/Awesome-LLM|
-
-
-## Group meeting 
 
 
 
