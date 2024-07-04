@@ -1,7 +1,7 @@
 
 # Crash detection
 
-By Jason 
+*By Jason* 
 
 
 ## 1. Guidelines
