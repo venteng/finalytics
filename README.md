@@ -43,6 +43,8 @@ format: MMDD HHMM (hours)
  
 ### 2024最好用的AI工具 https://youtu.be/ZDonlcn23ew?si=SOb7WxgH6fMCM7yi
 
+
+*By sofie*
  
 
 | AI 名稱         | 功能                                                   | Link                                                                      |
