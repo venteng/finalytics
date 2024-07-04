@@ -24,9 +24,6 @@ format: MMDD HHMM (hours)
 ## Group meeting 
 
 
-
-
-
 ## Overview of the folders
 
 1. "download": template to download.
