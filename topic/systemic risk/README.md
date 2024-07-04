@@ -10,7 +10,8 @@ https://www.icloud.com/freeform/010vQKpOHy58VSq14kPZwHP8A#20240704_DJ_systemic_r
 
 | BibTeX | Edition | Categories | Rank | Citation | Keyword |
 | --- | --- | --- | --- | --- | --- |
-| @article{bisias2012survey,title={A survey of systemic risk analytics},author={Bisias, Dimitrios and Flood, Mark and Lo, Andrew W and Valavanis, Stavros},journal={Annu. Rev. Financ. Econ.},volume={4},number={1},pages={255--296},year={2012},publisher={Annual Reviews}}| |||1173||
+| @article{bisias2012survey,title={A survey of systemic risk analytics},author={Bisias, Dimitrios and Flood, Mark and Lo, Andrew W and Valavanis, Stavros},journal={Annual Review of Financial Economics},volume={4},number={1},pages={255--296},year={2012},publisher={Annual Reviews}}|SSCI | CATEGORY
+BUSINESS, FINANCE | 24/231, 11% |1173||
 | @article{acharya2017measuring, title={{Measuring Systemic Risk}}, author={Acharya, Viral V and Pedersen, Lasse H and Philippon, Thomas and Richardson, Matthew}, journal={The Review of Financial Studies}, volume={30}, number={1}, pages={2--47}, year={2017}, publisher={Oxford University Press} } | SSCI | BUSINESS FINANCE | 4/111, 3.6% | 3471 | Systemic Risk |
 | @article{haldane2011systemic, title={Systemic risk in banking ecosystems}, author={Haldane, Andrew G and May, Robert M}, journal={Nature}, volume={469}, number={7330}, pages={351--355}, year={2011}, publisher={Nature Publishing Group UK London} } | SCIE | MULTIDISCIPLINARY SCIENCES | 1/73, 1.37% | 1759 | Systemic Risk |
 | @article{lehar2005measuring, title={Measuring systemic risk: A risk management approach}, author={Lehar, Alfred}, journal={Journal of Banking \& Finance}, volume={29}, number={10}, pages={2577--2603}, year={2005}, publisher={Elsevier} } | SSCI | BUSINESS FINANCE | 39/111, 35.14% | 813 | Risk Management |
