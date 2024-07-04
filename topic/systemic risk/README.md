@@ -10,6 +10,17 @@ https://www.icloud.com/freeform/010vQKpOHy58VSq14kPZwHP8A#20240704_DJ_systemic_r
 
 | BibTeX | Edition | Categories | Rank | Citation | Keyword |
 | --- | --- | --- | --- | --- | --- |
+| @article{bisias2012survey,
+  title={A survey of systemic risk analytics},
+  author={Bisias, Dimitrios and Flood, Mark and Lo, Andrew W and Valavanis, Stavros},
+  journal={Annu. Rev. Financ. Econ.},
+  volume={4},
+  number={1},
+  pages={255--296},
+  year={2012},
+  publisher={Annual Reviews}
+}| 
+
 | @article{white2015var, title={{VAR for VaR: Measuring tail dependence using multivariate regression quantiles}}, author={White, Halbert and Kim, Tae-Hwan and Manganelli, Simone}, journal={Journal of Econometrics}, volume={187}, number={1}, pages={169--188}, year={2015}, publisher={Elsevier} } | SSCI | ECONOMICS | 35/380, 9.21% | 378 | Value at Risk |
 | @article{adrian2016covar, title={{CoVaR}}, author={Adrian, Tobias and Brunnermeier, Markus K}, journal={American Economic Review}, volume={106}, number={7}, pages={1705--1741}, year={2016}, publisher={American Economic Association 2014 Broadway, Suite 305, Nashville, TN 37203} } | SSCI | ECONOMICS | 4/380, 1.05% | 4253 | CoVaR |
 | @article{nguyen2020investigating, title={Investigating tail-risk dependence in the cryptocurrency markets: A LASSO quantile regression approach}, author={Nguyen, Linh Hoang and Chevapatrakul, Thanaset and Yao, Kai}, journal={Journal of Empirical Finance}, volume={58}, pages={333--355}, year={2020}, publisher={Elsevier} } | SSCI | BUSINESS FINANCE | 57/111, 51.35% | 55 | LASSO, Quantile Regression |
