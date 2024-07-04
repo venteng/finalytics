@@ -13,14 +13,14 @@ format: MMDD HHMM (hours)
 |M3|MW| 
 |M2|DJ| 0703 0900 (4) | 0703 1600 (1)| 0704 1100 (1) | 
 ||YTC|  0703 0900 (4)| 0704 1330 (1)|
-|M1|GL
+|M1|GL | 
 |M1| JS|
-|M1|WH | 
+|M1| WH | 
 |M1| PC|
-|M1|HW|
+|M1| HW| 0705 1330 |
 |M1| JC| 0704 1400 (1)|
 |M0| BS | 
-|U| MC|
+|U | MC|
 
 ## Group meeting 
 
