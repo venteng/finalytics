@@ -7,18 +7,18 @@ YYMMDD HHMM (hours)
 
 |Name| 1| 2| 3| 4| 5|6 | 7|8|
 |---|--|--|--|--|--|--|--|--|
-|Mark| 
-|David| 240703 0900 (4) | 240703 1600 (1)|
-|YT|  240703 0900 (4)| 240704 1330 (1)|
-|YC| 
-|Ghomas
-| James|
-|Wendy | 
-| Paul|
-|Howard|
-| Jason|
-| Max|
-| Ben | 
+|MW| 
+|DJ| 240703 0900 (4) | 240703 1600 (1)|
+|YTC|  240703 0900 (4)| 240704 1330 (1)|
+|YCC| 
+|GL
+| JS|
+|WH | 
+| PC|
+|HW|
+| JC|
+| MC|
+| BS | 
 
 ## Group meeting 
 
