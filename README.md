@@ -30,7 +30,7 @@ format: MMDD HHMM (hours)
 |M1|WH | 
 |M1| PC|
 |M1|HW|
-|M1| JC| 240704 1400 (1)|
+|M1| JC| 0704 1400 (1)|
 |M0| BS | 
 |U| MC|
 
