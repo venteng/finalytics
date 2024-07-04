@@ -40,11 +40,6 @@ format: MMDD HHMM (hours)
 
 ### Awesome-LLM  https://github.com/Hannibal046/Awesome-LLM  
 
-|Date | By| Topic   | Link|
-|--|---|---|--|
-|20240703| HWT |  || 
-|20240703| HWT | 
-
  
 ### 2024最好用的AI工具 https://youtu.be/ZDonlcn23ew?si=SOb7WxgH6fMCM7yi
 
