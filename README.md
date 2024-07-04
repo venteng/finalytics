@@ -2,19 +2,6 @@
 
 *Last modified by Huei-Wen Teng on 20240701*
 
-## Updated AI tools ⭐⭐⭐
-
-|Date | By| Topic   | Link|
-|--|---|---|--|
-|20240703| T2 | 2024最好用的AI工具 | https://youtu.be/ZDonlcn23ew?si=SOb7WxgH6fMCM7yi| 
-|20240703| T2 | Awesome-LLM | https://github.com/Hannibal046/Awesome-LLM|
-
-
-
-### 2024最好用的AI工具
-
-
-
 ## Individual meeting Jul 2024 
 
 format: MMDD HHMM (hours)
@@ -34,9 +21,6 @@ format: MMDD HHMM (hours)
 |M0| BS | 
 |U| MC|
 
-## Group meeting 
-
-
 
 ## Overview of the folders
 
@@ -46,6 +30,20 @@ format: MMDD HHMM (hours)
 2. "python": Some python codes maybe in general useful
 3. "tools": How to download data and high computer performance
 4. "topic": Research topics identified, explored, and clarified from the project
+
+
+## Updated AI tools ⭐⭐⭐
+
+|Date | By| Topic   | Link|
+|--|---|---|--|
+|20240703| T2 | 2024最好用的AI工具 | https://youtu.be/ZDonlcn23ew?si=SOb7WxgH6fMCM7yi| 
+|20240703| T2 | Awesome-LLM | https://github.com/Hannibal046/Awesome-LLM|
+
+
+## Group meeting 
+
+
+
 
 ## STEP 1: How do we initiate and complete a professional paper? 
 
