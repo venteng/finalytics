@@ -35,15 +35,31 @@ format: MMDD HHMM (hours)
 4. "topic": Research topics identified, explored, and clarified from the project
 
 
-## Updated AI tools ⭐⭐⭐
+## ⭐⭐⭐
+
+
+### Awesome-LLM  https://github.com/Hannibal046/Awesome-LLM  
 
 |Date | By| Topic   | Link|
 |--|---|---|--|
-|20240703| HWT | 2024最好用的AI工具 | https://youtu.be/ZDonlcn23ew?si=SOb7WxgH6fMCM7yi| 
-|20240703| HWT | Awesome-LLM | https://github.com/Hannibal046/Awesome-LLM|
+|20240703| HWT |  || 
+|20240703| HWT | 
+
+ 
+### 2024最好用的AI工具 https://youtu.be/ZDonlcn23ew?si=SOb7WxgH6fMCM7yi
 
  
 
+| AI 名稱         | 功能                                                   | Link                                                                      |
+|----------------|------------------------------------------------------|--------------------------------------------------------------------------|
+| Consensus      | 學術搜尋                                               | [https://scispace.com/](https://scispace.com/)                            |
+| SciSpace       | 文獻搜尋、摘要、問答功能、學術研究相關工具                 | [https://consensus.app/](https://consensus.app/)                          |
+| Diagrams       | 製作流程圖、思維導圖、UML圖、數據庫、工作流程、系統架構、業務邏輯 | [https://diagrams.mingrammer.com/](https://diagrams.mingrammer.com/)      |
+| Humanizer      | 單複數轉換、部落格文章標題轉URL                            | [https://textflip.ai/zh-tw/ai-humanizer/](https://textflip.ai/zh-tw/ai-humanizer/) |
+| The Negotiator | 談判助手                                               | [https://chatgpt.com/g/g-8NrNFsUvx-ai-negotiator](https://chatgpt.com/g/g-8NrNFsUvx-ai-negotiator) |
+| Claude AI      | 文章摘要、統整、寫作、問答和撰寫程式碼等等                    | [https://claude.ai/login?returnTo=%2F%3F](https://claude.ai/login?returnTo=%2F%3F)  |
+| ideogram       | 將文字轉為圖片                                           | [https://ideogram.ai/login](https://ideogram.ai/login)                    |
+| MyLens AI      | 製作事件時間表                                           | [https://mylens.ai/](https://mylens.ai/)                                  |
 
 
 
