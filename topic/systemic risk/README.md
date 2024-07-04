@@ -28,3 +28,7 @@ https://www.icloud.com/freeform/010vQKpOHy58VSq14kPZwHP8A#20240704_DJ_systemic_r
 
 | @article{torri2021network, title={{Network tail risk estimation in the European banking system}}, author={Torri, Gabriele and Giacometti, Rosella and Tich{\`y}, Tom{\'a}{\v{s}}}, journal={Journal of Economic Dynamics and Control}, volume={127}, pages={104125}, year={2021}, publisher={Elsevier} } | SSCI | ECONOMICS | 207/380, 54.47% | 21 | Tail Event | -->
 <!-- | @article{acharya2009causes, title={Causes of the financial crisis}, author={Acharya, Viral V and Richardson, Matthew}, journal={Critical review}, volume={21}, number={2-3}, pages={195--210}, year={2009}, publisher={Taylor \& Francis} } | SSCI | POLITICAL SCIENCE | 208/315, 66.03% | 828 | Financial Crisis | -->
+
+
+
+<img width="859" alt="image" src="https://github.com/venteng/finalytics/assets/55239313/d75ef792-2883-48c8-9cff-db823c2fce2a">
