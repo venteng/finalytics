@@ -13,3 +13,14 @@
 | @article{nguyen2020investigating, title={Investigating tail-risk dependence in the cryptocurrency markets: A LASSO quantile regression approach}, author={Nguyen, Linh Hoang and Chevapatrakul, Thanaset and Yao, Kai}, journal={Journal of Empirical Finance}, volume={58}, pages={333--355}, year={2020}, publisher={Elsevier} } | SSCI | BUSINESS FINANCE | 57/111, 51.35% | 55 | LASSO, Quantile Regression |
 | @article{alhamzawi2012bayesian, title={{Bayesian adaptive Lasso quantile regression}}, author={Alhamzawi, Rahim and Yu, Keming and Benoit, Dries F}, journal={Statistical Modelling}, volume={12}, number={3}, pages={279--297}, year={2012}, publisher={Sage Publications Sage India: New Delhi, India} } | SCIE | STATISTICS & PROBABILITY | 104/164, 63.41% | 182 | LASSO, Quantile Regression |
 | @article{white2015var, title={{VAR for VaR: Measuring tail dependence using multivariate regression quantiles}}, author={White, Halbert and Kim, Tae-Hwan and Manganelli, Simone}, journal={Journal of Econometrics}, volume={187}, number={1}, pages={169--188}, year={2015}, publisher={Elsevier} } | SSCI | ECONOMICS | 35/380, 9.21% | 378 | Value at Risk |
+
+
+## Trial 1
+
+<img width="874" alt="image" src="https://github.com/venteng/finalytics/assets/55239313/3f67913b-d51f-49e9-907a-37f007a2bf43">
+
+## Trial 2
+
+<img width="681" alt="image" src="https://github.com/venteng/finalytics/assets/55239313/d2b4edb5-8126-4262-bde7-cd0323beb3cf">
+
+
