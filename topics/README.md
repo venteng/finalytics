@@ -1,4 +1,4 @@
-# Topic
+# Topics
 
 ---
 
@@ -50,7 +50,7 @@ Search keywords?
 
 | Topic | Leader | Note|
 |---|--|---|
-| Financial Risk | David| 
+| Systemic Risk | David| 
 | FRM | David| 
 | Quantile regression | David|
 | RFE | David | feature selection | 
