@@ -4,9 +4,6 @@
 
 ## Updated AI tools ⭐⭐⭐
 
-
-
-
 |Date | By| Topic   | Link|
 |--|---|---|--|
 |20240703| T2 | 2024最好用的AI工具 | https://youtu.be/ZDonlcn23ew?si=SOb7WxgH6fMCM7yi| 
@@ -18,9 +15,30 @@
 
 
 
+## Individual meeting Jul 2024 
+
+YYMMDD HHMM (hours)
+
+|Type|Name| 1| 2| 3| 4| 5|6 | 7|8|
+|--|---|--|--|--|--|--|--|--|--|
+|D|YCC| 
+|M3|MW| 
+|M2|DJ| 240703 0900 (4) | 240703 1600 (1)| 240704 1100 (1) | 
+||YTC|  240703 0900 (4)| 240704 1330 (1)|
+|M1|GL
+|M1| JS|
+|M1|WH | 
+|M1| PC|
+|M1|HW|
+|M1| JC| 240704 1400 (1)|
+|M0| BS | 
+|U| MC|
+
+## Group meeting 
 
 
-## 1. Overview of the folders
+
+## Overview of the folders
 
 1. "download": template to download.
           - '20240602 TEN (template).key': Presentation details and techniques for editing slides, manuscripts, and thesises.
@@ -29,9 +47,9 @@
 3. "tools": How to download data and high computer performance
 4. "topic": Research topics identified, explored, and clarified from the project
 
-## 2. How do we initiate and complete a professional paper? 
+## STEP 1: How do we initiate and complete a professional paper? 
 
-### 2.1: Exploration and Write up
+### Exploration and Write up
 
 1. Download "20240701 finalytics README (template).key" or  "yyyymmdd finalytics README (template).xls" to initiate and explore your ideas in your folder.
        
@@ -47,7 +65,7 @@
 7. Need to use chatGPT or grammarly to check errors and improve language. 
 
 
-### 2.2: 口試
+### STEP 2: 口試
 
 
 #### 口試當天 
@@ -65,7 +83,7 @@
 2. 上傳論文至SSRN並提供連結
 
     
-## 口試須繳交表格
+#### 口試須繳交表格
 
 1. 請先選出一位leader. 
 2. HWT開啟google共享folder, 'YYYYMM', 以及以下的subfolder, 以學生名命名。
@@ -73,13 +91,10 @@
 4. 口委簽好名，回信給口試學生。
 5. 口試學生確認要簽名以及輪流簽名的文件無誤後，將所有文件上傳到自己的shared folder. 
 6. 若需要線上傳遞共同簽名文件，可用：https://www.dottedsign.com/pricing/
-
-
+7. 
 <img width="1051" alt="image" src="https://github.com/venteng/finalytics/assets/55239313/3c9689a7-d1a4-4292-8997-b5404c14b7ae">
 
-
-
-### 2.3 檔案備份
+### STEP 3: 檔案備份
 
 1. 繳交所有學校需要相關資料表格
 2. A shared folder (iCloud, google drive, One cloud)  with manuscript, talk, vedio, coding, data, github(?)
