@@ -1,4 +1,4 @@
-# Financial Risk Meter (FRM) 
+# Systemic Risk
 
 *By David*
 
