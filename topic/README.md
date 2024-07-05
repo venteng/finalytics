@@ -51,7 +51,6 @@ Search keywords?
 | Topic | Leader | Note|
 |---|--|---|
 | Systemic Risk | David| 🍎
-
 | FRM | David| 
 | Quantile regression | David|
 | RFE | David | feature selection | 
