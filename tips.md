@@ -64,6 +64,17 @@
 This is an experiment to use gitHUB as a platform to collect and share tools from our research lab. 
 
 
+### STEP 4: 建議 
+
+1. 「著作彙編共同作者貢獻聲明書」這份檔案老師似乎還沒簽名（中英文的最後指導教授那欄）
+2. 電子檔授權這些設定多久公開？（立即～5年）: 3年
+2-1. 陽交大論文系統
+2-2. 碩博士加值系統
+2-3. 中英文摘要開放日期
+3. 電子檔是否授權資料庫廠商？ 否
+4. 紙本論文是否延後公開？    否
+
+
 ## Previous meeting
 
 
