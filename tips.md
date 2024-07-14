@@ -4,6 +4,8 @@ How do we initiate and complete a professional paper?
 
 ## I Brainstorm, presentation, and write-up
 
+Read https://github.com/venteng/finalytics/blob/main/download/README.md 
+
 1. Download "20240701 finalytics README (template).key" or  "yyyymmdd finalytics README (template).xls" to initiate and explore your ideas in your folder.       
     1. Change the finamle: change "finalytics" to your name, and remove "(template)".
     3. Start with an appealing title
