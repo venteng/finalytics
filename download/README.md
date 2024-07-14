@@ -1,22 +1,15 @@
 # Tips in presentation and writing
 
 
-Latest update 20240701 by HWTeng
+Latest update 20240714 by HWTeng
 
-## 利用Mac 無邊記 設計流程圖
+## Step 1: 利用Mac 無邊記 設計流程圖
 
 1. 輸出成pdf 即可直接貼在keynote上為透明的圖片
 
 https://youtu.be/KcGHqGQUOis
 
-## 注意事項
-
-1. 中英文的內容翻譯需要一致，不能各寫各的。 
-2. A paragraph will include 5 to 10 lines. Too big paragraph makes me dizzy. 
-3. Include url for dataset if possible
-4. Switch to NYCU template, because Thesis uses chapters but not just sections. But do not use logo's, Chinese, stuffs like that, at this moment. Just use English. Thesis template can be found for example in [an overleaf template found by Ian](https://www.overleaf.com/latex/templates/national-yang-ming-chiao-tung-university-nycu-thesis-template/zgjfrxhcdcmj?fbclid=IwAR3OUXIOJ7jLGLMquRjJeLE_Ml2lYlgWyEoDCra9YacgAwyql4_R0VbrO-I) on 20220630. 
-
-## Latex
+## Step 3: Latex
 
 1. For each chapter or section titles, add a label \\label{sec:xxxxx}. Need to introduce how you organize a chapterat the beginning of each chapter before the first section. 
 2. Add sections for "Chapter 2: Literature Review". 
@@ -33,8 +26,16 @@ https://youtu.be/KcGHqGQUOis
     - formulas $\rightarrow$ formulae
     - $\left[\{(\cdot)\}\right]$
 
+### 3.1 注意事項
 
-## Bibtex
+1. 中英文的內容翻譯需要一致，不能各寫各的。 
+2. A paragraph will include 5 to 10 lines. Too big paragraph makes me dizzy. 
+3. Include url for dataset if possible
+4. Switch to NYCU template, because Thesis uses chapters but not just sections. But do not use logo's, Chinese, stuffs like that, at this moment. Just use English. Thesis template can be found for example in [an overleaf template found by Ian](https://www.overleaf.com/latex/templates/national-yang-ming-chiao-tung-university-nycu-thesis-template/zgjfrxhcdcmj?fbclid=IwAR3OUXIOJ7jLGLMquRjJeLE_Ml2lYlgWyEoDCra9YacgAwyql4_R0VbrO-I) on 20220630. 
+
+
+
+### 3.1 Bibtex
 
 | Type| bibtex
 | --|---
@@ -44,7 +45,7 @@ https://youtu.be/KcGHqGQUOis
 |handbook chapter| 
 | thesis/disseration|
 
-## 標點符號、文法
+### 3.2 標點符號、文法
 
 |Incorrect :-1:| Correct :+1:|Note|
 |--|---|---|
@@ -54,21 +55,20 @@ https://youtu.be/KcGHqGQUOis
 |T=1 year|$T= 1$  year|數學符號要用錢字號標記｜
 
 
-## 常用英文詞彙 Common English terms
+### 3.3 常用英文詞彙 Common English terms
 
 1. *, ** and *** denote significance at the 10, 5, and 1% level, respectively
 
-## 表格
+### 3.4 表格
 
 1. Do not use any verticle lines.
 2. Use only minimal number of horizonal lines
 3. With the same number of decimals
 
-#### Before 
+Before 
 
 <img width="1121" alt="image" src="https://github.com/venteng/finalytics/assets/55239313/686341b4-b412-4e26-a981-c0da8dd2a8df">
 
-
-#### After
+After
 
 <img width="1018" alt="image" src="https://github.com/venteng/finalytics/assets/55239313/00ebaea6-be90-44cf-b10d-ac2f346b3bfd">
