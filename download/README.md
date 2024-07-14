@@ -33,6 +33,8 @@ Two links can be downladed:
 - Please help to revise our manuscript, correct typoes and gramattical errors, and make it more concise and succinct, and avoid plagiarism. 
 - Please stick to the Latex syntax. 
 - Please use present tense.
+- Here is the second paragraph of the section "Conclusion".
+- Do not use \begin{itemize} or \begin{enumerate}. 
 
 
 
