@@ -9,6 +9,13 @@ Latest update 20240714 by HWTeng
 
 https://youtu.be/KcGHqGQUOis
 
+
+## Step 2: keynote slides
+
+
+Use the template "20240414 TEN TemplateKeynote.key" in this folder. 
+
+
 ## Step 3: Latex
 
 1. For each chapter or section titles, add a label \\label{sec:xxxxx}. Need to introduce how you organize a chapterat the beginning of each chapter before the first section. 
