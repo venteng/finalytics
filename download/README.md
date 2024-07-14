@@ -1,19 +1,19 @@
-# Tips in presentation and writing
+# Tips for brainstorming, presentation and writing
 
 
 Latest update 20240714 by HWTeng
 
-## Step 1: 利用Mac 無邊記 設計流程圖
+## Step 1: brainstorming using Mac 無邊記 設計流程圖
 
 1. 輸出成pdf 即可直接貼在keynote上為透明的圖片
 
 https://youtu.be/KcGHqGQUOis
 
 
-## Step 2: keynote slides
+## Step 2: presentation using keynote slides
 
 
-Use the template "20240414 TEN TemplateKeynote.key" in this folder. 
+Use the template "20240414 TEN TemplateKeynote.key" or "xxx.ppt" in this folder. 
 
 
 ## Step 3: Latex
