@@ -5,23 +5,19 @@ Latest update 20240714 by HWTeng
 
 ## Step 1: Brainstorming with Mac 無邊記 設計流程圖
 
-1. 輸出成pdf 即可直接貼在keynote上為透明的圖片
-
-https://youtu.be/KcGHqGQUOis
+1. Download at 🚧
+2. 輸出成pdf 即可直接貼在keynote上為透明的圖片 https://youtu.be/KcGHqGQUOis
 
 
 ## Step 2: Presentation with slides
 
-
-Use the template "20240414 TEN TemplateKeynote.key" or "xxx.ppt" in this folder. 
-
+1. Download "20240414 TEN TemplateKeynote.key" or "xxx.ppt" in this folder at 🚧
 
 ## Step 3: Writting with Latex
 
 Two links can be downladed: 
 1. SSRN template 🚧
 2. NYCU thesis/dissertation template 🚧
-
 
 
 ### How do we write professional papers?
