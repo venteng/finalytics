@@ -18,6 +18,12 @@ Use the template "20240414 TEN TemplateKeynote.key" in this folder.
 
 ## Step 3: Latex
 
+Two links can be freely downlad: 
+1. SSRN template 🚧
+2. NYCU thesis/dissertation template 🚧
+
+
+
 1. For each chapter or section titles, add a label \\label{sec:xxxxx}. Need to introduce how you organize a chapterat the beginning of each chapter before the first section. 
 2. Add sections for "Chapter 2: Literature Review". 
 3. It will be easier for me to trace the materials with the following lable rules
