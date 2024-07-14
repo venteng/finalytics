@@ -18,9 +18,27 @@ Use the template "20240414 TEN TemplateKeynote.key" or "xxx.ppt" in this folder.
 
 ## Step 3: Writting with Latex
 
-Two links can be freely downlad: 
+Two links can be downladed: 
 1. SSRN template 🚧
 2. NYCU thesis/dissertation template 🚧
+
+
+
+### How do we write professional papers?
+
+
+1. Itemize your logic explicitly.
+2. Use chatGPT to write down a nice paragraphs with example prompts:
+- We will submit a paper, entitled "Exploring Multifaceted Drivers for Bitcoin Return Analysis" that will be submitted to "Finance Research Letters" for possbilbe publication. 
+- Please help to revise our manuscript, correct typoes and gramattical errors, and make it more concise and succinct, and avoid plagiarism. 
+- Please stick to the Latex syntax. 
+- Please use present tense.
+
+
+
+
+
+### Details in Latex 
 
 
 
@@ -31,7 +49,7 @@ Two links can be freely downlad:
     - lables for table \ref{tab:xxx}
     - lables for equation \ref{eq:x}
     - lables for section or subsections \ref{sec:xxx}
-4. Tables and Figures will be in the middle of the context (not the end of the thesis)
+4. Tables and Figures will be in the middle of the context (not at the end of the thesis).
 5. For all captions, only the first letter is in upper case, but all the others are in lower case. 
 6. Minor deatils
     - Expectation: `$\mbox{\sf E}$` (or better one)
