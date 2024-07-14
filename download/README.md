@@ -1,4 +1,4 @@
-# Tips for brainstorming, presentation, and writing
+# Brainstorming, presentation, and writing
 
 
 Latest update 20240714 by HWTeng
