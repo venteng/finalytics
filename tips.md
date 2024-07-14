@@ -1,11 +1,10 @@
 # Tips
 
-## How do we initiate and complete a professional paper? 
+How do we initiate and complete a professional paper? 
 
-### STEP 1: Exploration and Write up
+## I Brainstorm, presentation, and write-up
 
-1. Download "20240701 finalytics README (template).key" or  "yyyymmdd finalytics README (template).xls" to initiate and explore your ideas in your folder.
-       
+1. Download "20240701 finalytics README (template).key" or  "yyyymmdd finalytics README (template).xls" to initiate and explore your ideas in your folder.       
     1. Change the finamle: change "finalytics" to your name, and remove "(template)".
     3. Start with an appealing title
     4. Start with a kenote slides (download from the presentatino folder). 
@@ -18,10 +17,16 @@
 7. Need to use chatGPT or grammarly to check errors and improve language. 
 
 
-### STEP 2: 口試
 
 
-#### 口試當天 
+
+
+
+
+## II Oral Defence 口試
+
+
+### 口試當天 
 
 1. 口試時間約20-30分鐘。Including presentation+Q&A
 2. 投影片請勿超過25頁
@@ -30,13 +35,13 @@
 5. 請著正裝
 
 
-#### 口試前請上傳
+### 口試前請上傳
 
 1. 錄製影片並提供youtube影片連結，limit: 25 minutes. 
 2. 上傳論文至SSRN並提供連結
 
     
-#### 口試須繳交表格
+### 口試須繳交表格
 
 1. 請先選出一位leader. 
 2. HWT開啟google共享folder, 'YYYYMM', 以及以下的subfolder, 以學生名命名。
@@ -47,7 +52,7 @@
 7. 
 <img width="1051" alt="image" src="https://github.com/venteng/finalytics/assets/55239313/3c9689a7-d1a4-4292-8997-b5404c14b7ae">
 
-### STEP 3: 檔案備份
+## III Backup 檔案備份
 
 1. 繳交所有學校需要相關資料表格
 2. A shared folder (iCloud, google drive, One cloud)  with manuscript, talk, vedio, coding, data, github(?)
@@ -64,7 +69,7 @@
 This is an experiment to use gitHUB as a platform to collect and share tools from our research lab. 
 
 
-### STEP 4: 建議 
+## IV Other sugestions 建議 
 
 1. 「著作彙編共同作者貢獻聲明書」這份檔案老師似乎還沒簽名（中英文的最後指導教授那欄）
 2. 電子檔授權這些設定多久公開？（立即～5年）: 3年
