@@ -6,8 +6,8 @@
 ## Overview of the folders
 
 1. "download": template to download.
-          - '20240602 TEN (template).key': Presentation details and techniques for editing slides, manuscripts, and thesises.
-          - '20240701 finalytics README (template).numbers': a summary of your target and procedures 
+   - '20240602 TEN (template).key': Presentation details and techniques for editing slides, manuscripts, and thesises.
+   - '20240701 finalytics README (template).numbers': a summary of your target and procedures 
 2. "python": Some python codes maybe in general useful
 3. "tools": How to download data and high computer performance
 4. "topic": Research topics identified, explored, and clarified from the project
