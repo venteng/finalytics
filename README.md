@@ -15,14 +15,11 @@
 4. "topic": Research topics identified, explored, and clarified from the project
 
 
-## ⭐⭐⭐
+## Useful information
 
 
-### Awesome-LLM  https://github.com/Hannibal046/Awesome-LLM  
-
- 
-### 2024最好用的AI工具 https://youtu.be/ZDonlcn23ew?si=SOb7WxgH6fMCM7yi
-
+1. Awesome-LLM  https://github.com/Hannibal046/Awesome-LLM  
+2. 2024最好用的AI工具 https://youtu.be/ZDonlcn23ew?si=SOb7WxgH6fMCM7yi
 
 *By sofie*
  
