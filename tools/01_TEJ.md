@@ -1,7 +1,5 @@
 
-:::info
 Originally written by Mr. 李國誠 (Summer, 2021). Reviewed by Huei-Wen Teng
-:::
 
 
 # TEJ
